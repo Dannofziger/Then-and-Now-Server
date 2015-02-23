@@ -1,0 +1,20 @@
+{
+  "name": "thenAndNow",
+  "version": "0.1.0",
+  "description": "Then and Now Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dannofziger/Then-and-Now-Server.git"
+  },
+  "author": "Daniel Nofziger (dannofziger@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dannofziger/Then-and-Now-Server/issues"
+  },
+  "homepage": "https://github.com/Dannofziger/Then-and-Now-Server"
+}
