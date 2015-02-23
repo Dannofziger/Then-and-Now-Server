@@ -1,0 +1,19 @@
+// create user
+superagent http://localhost:3000/api/v1/create_user post '{ "basic": {"email": "test1@example.com", "password": "foobar123"}, "username": "Test1"}'
+
+// sign on as daffy
+superagent localhost:3000/api/v1/sign_in -u test1@example.com:test123
+
+// create Building
+superagent http://localhost:3000/api/v1/building post '{ "basic": {"email": "test@example.com", "password": "foobar123"}, "username": "Test"}'
+
+{ __v: 0,
+  username: 'Test1',
+  _id: '54eb9217f28c7d86319ed6da',
+  basic: { password: 'foobar123', email: 'test1@example.com' } }
+
+/ sign on as
+superagent localhost:3000/api/v1/sign_in -u test1@example.com:test123
+
+{ msg: 'successful login' }
+

@@ -5,20 +5,22 @@ var mongoose = require('mongoose');
 //var passport = require('passport');
 var userRoutes = require('./routes/userRoutes');
 var buildingRoutes = require('./routes/buildingRoutes');
-///var passport = require('passport');
+var passport = require('passport');
 
 mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost/tan_development');
 
 var app = express();
+app.use(passport.initialize());
+require('./lib/passport_strat')(passport);
+
 var userRouter = express.Router();
 var buildingRouter = express.Router();
 
 console.log("in server.js calling userRoutes(userRouter)");
 //userRoutes(userRouter, passport, app.get('appSecret'));
-userRoutes(userRouter);
+userRoutes(userRouter, passport);
 
 console.log("in server.js calling buildingRoutes(buildingRouter)");
-//userRoutes(userRouter, passport, app.get('appSecret'));
 buildingRoutes(buildingRouter);
 
 
