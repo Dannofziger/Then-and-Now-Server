@@ -39,3 +39,7 @@ superagent localhost:3000/api/v1/building/54ebdc781537d24821db4cab put '{
 
 //  in mongo --
 //  db.buildings.find({longitude: "-122.348905"}).pretty()
+
+
+//delete building
+superagent localhost:3000/api/v1/building/54ebdc781537d24821db4cab delete

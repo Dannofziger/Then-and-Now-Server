@@ -77,7 +77,22 @@ module.exports = function(app){
   app.patch('', function(req, res){
 
   });
-  app.delete('', function(req, res){
 
+  // request a delete of a building
+  app.delete('/building/:id', function(req, res) {
+    var deletedBuilding = req.body;
+    //delete deletedPlatypus._id;
+    Building.remove({_id: req.params.id}, function(err) {
+      // delete failed
+      if (err) {
+        console.log("Building.delete() failed. err = " + err);
+        return res.status(500).send({'msg': 'could not delete building'});
+      }
+
+      console.log("successful building delete");
+      // delete succeeded -- return body
+      res.json(req.body);
+    });
   });
+
 };

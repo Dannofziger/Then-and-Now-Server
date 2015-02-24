@@ -231,28 +231,4 @@
     infosites: 
      { wikipediaURL: '',
        yahooURL: '',
-       googleURL: 'http://www.seattle.gov/neighborhoods/preservation/documents/DesRptAdmiralsHouse.pdf' } },
-  { _id: '54ebdc781537d24821db4cab',
-    longitude: '-122.380272',
-    latitude: '47.628053',
-    buildingName: 'Admirals House',
-    buildingAddress: '2001 W. Garfield Street',
-    city: 'Seattle',
-    state: 'WA',
-    zipcode: '98119-3115',
-    buildDate: '1944',
-    buildCompletion: '1944',
-    crossStreetEastWest: 'W. Garfield Street',
-    crossStreetNorthSouth: '15th Ave W',
-    crtTimestamp: '2-23-2015 16:00',
-    crtUser: 'Initial_Load',
-    updtTimestamp: '2-23-2015 16:00',
-    updtUser: 'Initial_Load',
-    __v: 0,
-    images: 
-     { url1900: '',
-       url2010: 'http://seamlessmoves.com/blog/wp-content/uploads/2012/12/Admirals-House.jpg' },
-    infosites: 
-     { wikipediaURL: '',
-       yahooURL: '',
        googleURL: 'http://www.seattle.gov/neighborhoods/preservation/documents/DesRptAdmiralsHouse.pdf' } } ]
