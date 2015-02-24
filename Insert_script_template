@@ -1,0 +1,26 @@
+db.buildings.insert({
+  longitude: '',
+  latitude: '',
+  buildingName: '1201 Third Avenue',
+  buildingAddress: '1201 Third Avenue',
+  city: 'Seattle',
+  state: 'WA',
+  zipcode: '',
+  buildDate: '',
+  buildCompletion: '',
+  crossStreetEastWest: '',
+  crossStreetNorthSouth: '3rd Ave',
+  infosites: {
+    wikipediaURL: '',
+    yahooURL: '',
+    googleURL: ''
+  },
+  images: {
+    url1900: '',
+    url2010: ''
+  },
+  tags: ['Washington Mutual','Tower', 'tall buildings'],
+  crtTimestamp: new Date(2015,1,23,16,00),
+  crtUser: 'Initial_Load',
+  updtTimestamp: new Date(2015,1,23,16,00),
+  updtUser: 'Initial_Load'});

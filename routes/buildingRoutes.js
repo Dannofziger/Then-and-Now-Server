@@ -14,9 +14,32 @@ module.exports = function(app){
       res.join(data);
     });
   });
-  app.post('', function(req, res){
 
+  // request to insert new buiilding in the database
+  app.post('/building', function(req, res) {
+    console.log('in buildingRoutes.js  app.post()');
+    console.log('req.body');
+    console.log(req.body);
+
+    console.log('about to call new Building()');
+    var newBuilding = new Building(req.body);
+    // mongoose method .save()
+    newBuilding.save(function(err, building) {
+
+      console.log('in newBuilding.save()');
+      // attempt to insert new building failed
+      if (err) {
+        console.log("database err = " + err);
+        return res.status(500).send({'msg': 'could not save building'});
+      }
+
+      // success - return building to client  (including _id field)
+      console.log("successfuly saved new Building");
+      console.log(building);
+      res.json(building);
+    });
   });
+
   app.put('', function(req, res){
 
   });

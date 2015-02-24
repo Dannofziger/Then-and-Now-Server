@@ -34,3 +34,6 @@ var buildingSchema = new mongoose.Schema({
   updtTimestamp: String,
   updtUser: String
 });
+
+
+module.exports = mongoose.model('Building', buildingSchema);
