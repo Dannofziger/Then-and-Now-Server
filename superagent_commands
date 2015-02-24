@@ -49,6 +49,8 @@ superagent localhost:3000/api/v1/building?long=-122.348905&lat=47.6205535 get  >
 
 localhost:3000/api/v1/building?gettype=invicinity&radius=.025&long=-122.348905&lat=47.6205535 get
 
+localhost:3000/api/v1/building?gettype=invicinity&radius=1.0&long=-122.348905&lat=47.6205535 get
+
 
 
 

@@ -1,0 +1,4605 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564194,
+                    25.080441
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.564194",
+                "HEIGHTFEE": "1671.0",
+                "FLOORS0": "101.0",
+                "HEIGHTMET": "509.0",
+                "CITY0": "Taipei",
+                "LATITUDE0": "25.080441",
+                "YEAR0": "2004.0",
+                "RANK0": "1.0",
+                "INVERSERA": "200.0",
+                "BUILDING0": "Taipei 101"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472618,
+                    31.247709
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.472618",
+                "HEIGHTFEE": "1614.0",
+                "FLOORS0": "101.0",
+                "HEIGHTMET": "492.0",
+                "CITY0": "Shanghai",
+                "LATITUDE0": "31.247709",
+                "YEAR0": "2008.0",
+                "RANK0": "2.0",
+                "INVERSERA": "199.0",
+                "BUILDING0": "Shanghai World Financial .. *"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.707611,
+                    3.1501
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "101.707611",
+                "HEIGHTFEE": "1483.0",
+                "FLOORS0": "88.0",
+                "HEIGHTMET": "452.0",
+                "CITY0": "Kuala Lumpur",
+                "LATITUDE0": "3.1501",
+                "YEAR0": "1998.0",
+                "RANK0": "3.0",
+                "INVERSERA": "198.0",
+                "BUILDING0": "Petronas Tower 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.707611,
+                    3.1501
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "101.707611",
+                "HEIGHTFEE": "1483.0",
+                "FLOORS0": "88.0",
+                "HEIGHTMET": "452.0",
+                "CITY0": "Kuala Lumpur",
+                "LATITUDE0": "3.1501",
+                "YEAR0": "1998.0",
+                "RANK0": "4.0",
+                "INVERSERA": "197.0",
+                "BUILDING0": "Petronas Tower 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632409,
+                    41.88415
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-87.632409",
+                "HEIGHTFEE": "1451.0",
+                "FLOORS0": "108.0",
+                "HEIGHTMET": "442.0",
+                "CITY0": "Chicago",
+                "LATITUDE0": "41.88415",
+                "YEAR0": "1974.0",
+                "RANK0": "5.0",
+                "INVERSERA": "196.0",
+                "BUILDING0": "Sears Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472618,
+                    31.247709
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.472618",
+                "HEIGHTFEE": "1380.0",
+                "FLOORS0": "88.0",
+                "HEIGHTMET": "421.0",
+                "CITY0": "Shanghai",
+                "LATITUDE0": "31.247709",
+                "YEAR0": "1999.0",
+                "RANK0": "6.0",
+                "INVERSERA": "195.0",
+                "BUILDING0": "Jinao Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "1362.0",
+                "FLOORS0": "88.0",
+                "HEIGHTMET": "415.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "2003.0",
+                "RANK0": "7.0",
+                "INVERSERA": "194.0",
+                "BUILDING0": "Two International Finance.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.267616,
+                    23.107389
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "113.267616",
+                "HEIGHTFEE": "1283.0",
+                "FLOORS0": "80.0",
+                "HEIGHTMET": "391.0",
+                "CITY0": "Guangzhou",
+                "LATITUDE0": "23.107389",
+                "YEAR0": "1997.0",
+                "RANK0": "8.0",
+                "INVERSERA": "193.0",
+                "BUILDING0": "CITIC Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.112556,
+                    22.546789
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.112556",
+                "HEIGHTFEE": "1260.0",
+                "FLOORS0": "69.0",
+                "HEIGHTMET": "384.0",
+                "CITY0": "Shenzhen",
+                "LATITUDE0": "22.546789",
+                "YEAR0": "1996.0",
+                "RANK0": "9.0",
+                "INVERSERA": "192.0",
+                "BUILDING0": "Shun Hing Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "1250.0",
+                "FLOORS0": "102.0",
+                "HEIGHTMET": "381.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "1931.0",
+                "RANK0": "10.0",
+                "INVERSERA": "191.0",
+                "BUILDING0": "Empire State Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "1227.0",
+                "FLOORS0": "78.0",
+                "HEIGHTMET": "374.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "1992.0",
+                "RANK0": "11.0",
+                "INVERSERA": "190.0",
+                "BUILDING0": "Central Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "1205.0",
+                "FLOORS0": "70.0",
+                "HEIGHTMET": "367.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "1990.0",
+                "RANK0": "12.0",
+                "INVERSERA": "189.0",
+                "BUILDING0": "Bank of China Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "1200.0",
+                "FLOORS0": "54.0",
+                "HEIGHTMET": "366.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "2008.0",
+                "RANK0": "13.0",
+                "INVERSERA": "188.0",
+                "BUILDING0": "Bank of America Tower *"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.309212,
+                    25.27087
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "55.309212",
+                "HEIGHTFEE": "1163.0",
+                "FLOORS0": "54.0",
+                "HEIGHTMET": "355.0",
+                "CITY0": "Dubai",
+                "LATITUDE0": "25.27087",
+                "YEAR0": "2000.0",
+                "RANK0": "14.0",
+                "INVERSERA": "187.0",
+                "BUILDING0": "Emirates Office Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293228,
+                    22.672569
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "120.293228",
+                "HEIGHTFEE": "1140.0",
+                "FLOORS0": "85.0",
+                "HEIGHTMET": "348.0",
+                "CITY0": "Kaohsiung",
+                "LATITUDE0": "22.672569",
+                "YEAR0": "1997.0",
+                "RANK0": "15.0",
+                "INVERSERA": "186.0",
+                "BUILDING0": "Tuntex Sky Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632409,
+                    41.88415
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-87.632409",
+                "HEIGHTFEE": "1136.0",
+                "FLOORS0": "83.0",
+                "HEIGHTMET": "346.0",
+                "CITY0": "Chicago",
+                "LATITUDE0": "41.88415",
+                "YEAR0": "1973.0",
+                "RANK0": "16.0",
+                "INVERSERA": "185.0",
+                "BUILDING0": "Aon Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "1135.0",
+                "FLOORS0": "73.0",
+                "HEIGHTMET": "346.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "1998.0",
+                "RANK0": "17.0",
+                "INVERSERA": "184.0",
+                "BUILDING0": "The Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632409,
+                    41.88415
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-87.632409",
+                "HEIGHTFEE": "1127.0",
+                "FLOORS0": "100.0",
+                "HEIGHTMET": "344.0",
+                "CITY0": "Chicago",
+                "LATITUDE0": "41.88415",
+                "YEAR0": "1969.0",
+                "RANK0": "18.0",
+                "INVERSERA": "183.0",
+                "BUILDING0": "John Hancock Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.309212,
+                    25.27087
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "55.309212",
+                "HEIGHTFEE": "1093.0",
+                "FLOORS0": "72.0",
+                "HEIGHTMET": "333.0",
+                "CITY0": "Dubai",
+                "LATITUDE0": "25.27087",
+                "YEAR0": "2007.0",
+                "RANK0": "19.0",
+                "INVERSERA": "182.0",
+                "BUILDING0": "Rose Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472618,
+                    31.247709
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.472618",
+                "HEIGHTFEE": "1093.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "333.0",
+                "CITY0": "Shanghai",
+                "LATITUDE0": "31.247709",
+                "YEAR0": "2006.0",
+                "RANK0": "20.0",
+                "INVERSERA": "181.0",
+                "BUILDING0": "Shimao International Plaz.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.279121,
+                    30.572399
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.279121",
+                "HEIGHTFEE": "1087.0",
+                "FLOORS0": "68.0",
+                "HEIGHTMET": "331.0",
+                "CITY0": "Wuhan",
+                "LATITUDE0": "30.572399",
+                "YEAR0": "2007.0",
+                "RANK0": "21.0",
+                "INVERSERA": "180.0",
+                "BUILDING0": "Minsheng Bank Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.776299,
+                    39.014221
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "125.776299",
+                "HEIGHTFEE": "1083.0",
+                "FLOORS0": "105.0",
+                "HEIGHTMET": "330.0",
+                "CITY0": "Pyongyang",
+                "LATITUDE0": "39.014221",
+                "YEAR0": "1992.0",
+                "RANK0": "22.0",
+                "INVERSERA": "179.0",
+                "BUILDING0": "Ryugyong Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.401688,
+                    -28.00528
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "153.401688",
+                "HEIGHTFEE": "1058.0",
+                "FLOORS0": "78.0",
+                "HEIGHTMET": "323.0",
+                "CITY0": "Gold Coast City",
+                "LATITUDE0": "-28.00528",
+                "YEAR0": "2005.0",
+                "RANK0": "23.0",
+                "INVERSERA": "178.0",
+                "BUILDING0": "Q1 Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.309212,
+                    25.27087
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "55.309212",
+                "HEIGHTFEE": "1053.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "321.0",
+                "CITY0": "Dubai",
+                "LATITUDE0": "25.27087",
+                "YEAR0": "1999.0",
+                "RANK0": "24.0",
+                "INVERSERA": "177.0",
+                "BUILDING0": "Burj Al Arab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "1046.0",
+                "FLOORS0": "77.0",
+                "HEIGHTMET": "319.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "1930.0",
+                "RANK0": "25.0",
+                "INVERSERA": "176.0",
+                "BUILDING0": "Chrysler Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "1046.0",
+                "FLOORS0": "80.0",
+                "HEIGHTMET": "319.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "2007.0",
+                "RANK0": "26.0",
+                "INVERSERA": "175.0",
+                "BUILDING0": "Nina Tower I"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "1046.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "319.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "2007.0",
+                "RANK0": "27.0",
+                "INVERSERA": "174.0",
+                "BUILDING0": "New York Times Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.390849,
+                    33.74817
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-84.390849",
+                "HEIGHTFEE": "1023.0",
+                "FLOORS0": "55.0",
+                "HEIGHTMET": "312.0",
+                "CITY0": "Atlanta",
+                "LATITUDE0": "33.74817",
+                "YEAR0": "1992.0",
+                "RANK0": "28.0",
+                "INVERSERA": "173.0",
+                "BUILDING0": "Bank of America Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.245009,
+                    34.05329
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-118.245009",
+                "HEIGHTFEE": "1018.0",
+                "FLOORS0": "73.0",
+                "HEIGHTMET": "310.0",
+                "CITY0": "Los Angeles",
+                "LATITUDE0": "34.05329",
+                "YEAR0": "1989.0",
+                "RANK0": "29.0",
+                "INVERSERA": "172.0",
+                "BUILDING0": "US Bank Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.707611,
+                    3.1501
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "101.707611",
+                "HEIGHTFEE": "1017.0",
+                "FLOORS0": "55.0",
+                "HEIGHTMET": "310.0",
+                "CITY0": "Kuala Lumpur",
+                "LATITUDE0": "3.1501",
+                "YEAR0": "2001.0",
+                "RANK0": "30.0",
+                "INVERSERA": "171.0",
+                "BUILDING0": "Menara Telekom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.309212,
+                    25.27087
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "55.309212",
+                "HEIGHTFEE": "1014.0",
+                "FLOORS0": "56.0",
+                "HEIGHTMET": "309.0",
+                "CITY0": "Dubai",
+                "LATITUDE0": "25.27087",
+                "YEAR0": "2000.0",
+                "RANK0": "31.0",
+                "INVERSERA": "170.0",
+                "BUILDING0": "Jumeirah Emirates Towers .."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632409,
+                    41.88415
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-87.632409",
+                "HEIGHTFEE": "1007.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "307.0",
+                "CITY0": "Chicago",
+                "LATITUDE0": "41.88415",
+                "YEAR0": "1989.0",
+                "RANK0": "32.0",
+                "INVERSERA": "169.0",
+                "BUILDING0": "AT&T Corporate Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.369784,
+                    29.76045
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-95.369784",
+                "HEIGHTFEE": "1002.0",
+                "FLOORS0": "75.0",
+                "HEIGHTMET": "305.0",
+                "CITY0": "Houston",
+                "LATITUDE0": "29.76045",
+                "YEAR0": "1982.0",
+                "RANK0": "33.0",
+                "INVERSERA": "168.0",
+                "BUILDING0": "JPMorgan Chase Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.641418,
+                    13.72635
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "100.641418",
+                "HEIGHTFEE": "997.0",
+                "FLOORS0": "85.0",
+                "HEIGHTMET": "304.0",
+                "CITY0": "Bangkok",
+                "LATITUDE0": "13.72635",
+                "YEAR0": "1997.0",
+                "RANK0": "34.0",
+                "INVERSERA": "167.0",
+                "BUILDING0": "Baiyoke Tower II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632409,
+                    41.88415
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-87.632409",
+                "HEIGHTFEE": "995.0",
+                "FLOORS0": "64.0",
+                "HEIGHTMET": "303.0",
+                "CITY0": "Chicago",
+                "LATITUDE0": "41.88415",
+                "YEAR0": "1990.0",
+                "RANK0": "35.0",
+                "INVERSERA": "166.0",
+                "BUILDING0": "Two Prudential Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.369784,
+                    29.76045
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-95.369784",
+                "HEIGHTFEE": "992.0",
+                "FLOORS0": "71.0",
+                "HEIGHTMET": "302.0",
+                "CITY0": "Houston",
+                "LATITUDE0": "29.76045",
+                "YEAR0": "1983.0",
+                "RANK0": "36.0",
+                "INVERSERA": "165.0",
+                "BUILDING0": "Wells Fargo Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.7533,
+                    24.64039
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "46.7533",
+                "HEIGHTFEE": "992.0",
+                "FLOORS0": "41.0",
+                "HEIGHTMET": "302.0",
+                "CITY0": "Riyadh",
+                "LATITUDE0": "24.64039",
+                "YEAR0": "2002.0",
+                "RANK0": "37.0",
+                "INVERSERA": "164.0",
+                "BUILDING0": "Kingdom Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.507408,
+                    25.295
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "51.507408",
+                "HEIGHTFEE": "984.0",
+                "FLOORS0": "36.0",
+                "HEIGHTMET": "300.0",
+                "CITY0": "Doha",
+                "LATITUDE0": "25.295",
+                "YEAR0": "2007.0",
+                "RANK0": "38.0",
+                "INVERSERA": "163.0",
+                "BUILDING0": "Aspire Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.385329,
+                    43.648565
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-79.385329",
+                "HEIGHTFEE": "978.0",
+                "FLOORS0": "72.0",
+                "HEIGHTMET": "298.0",
+                "CITY0": "Toronto",
+                "LATITUDE0": "43.648565",
+                "YEAR0": "1976.0",
+                "RANK0": "39.0",
+                "INVERSERA": "162.0",
+                "BUILDING0": "First Bank Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.979874,
+                    -37.82748
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "144.979874",
+                "HEIGHTFEE": "975.0",
+                "FLOORS0": "91.0",
+                "HEIGHTMET": "297.0",
+                "CITY0": "Melbourne",
+                "LATITUDE0": "-37.82748",
+                "YEAR0": "2006.0",
+                "RANK0": "40.0",
+                "INVERSERA": "161.0",
+                "BUILDING0": "Eureka Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.162369,
+                    39.95227
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-75.162369",
+                "HEIGHTFEE": "974.0",
+                "FLOORS0": "57.0",
+                "HEIGHTMET": "297.0",
+                "CITY0": "Philadelphia",
+                "LATITUDE0": "39.95227",
+                "YEAR0": "2008.0",
+                "RANK0": "41.0",
+                "INVERSERA": "160.0",
+                "BUILDING0": "Comcast Center *"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.357513,
+                    35.404469
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "139.357513",
+                "HEIGHTFEE": "972.0",
+                "FLOORS0": "70.0",
+                "HEIGHTMET": "296.0",
+                "CITY0": "Yokohama",
+                "LATITUDE0": "35.404469",
+                "YEAR0": "1993.0",
+                "RANK0": "42.0",
+                "INVERSERA": "159.0",
+                "BUILDING0": "Yokohama Landmark Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632409,
+                    41.88415
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-87.632409",
+                "HEIGHTFEE": "961.0",
+                "FLOORS0": "65.0",
+                "HEIGHTMET": "293.0",
+                "CITY0": "Chicago",
+                "LATITUDE0": "41.88415",
+                "YEAR0": "1990.0",
+                "RANK0": "43.0",
+                "INVERSERA": "158.0",
+                "BUILDING0": "311 South Wacker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.112556,
+                    22.546789
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.112556",
+                "HEIGHTFEE": "957.0",
+                "FLOORS0": "70.0",
+                "HEIGHTMET": "292.0",
+                "CITY0": "Shenzhen",
+                "LATITUDE0": "22.546789",
+                "YEAR0": "2000.0",
+                "RANK0": "44.0",
+                "INVERSERA": "157.0",
+                "BUILDING0": "SEG Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "952.0",
+                "FLOORS0": "66.0",
+                "HEIGHTMET": "290.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "1932.0",
+                "RANK0": "45.0",
+                "INVERSERA": "156.0",
+                "BUILDING0": "American International"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.690459,
+                    41.504365
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-81.690459",
+                "HEIGHTFEE": "947.0",
+                "FLOORS0": "57.0",
+                "HEIGHTMET": "289.0",
+                "CITY0": "Cleveland",
+                "LATITUDE0": "41.504365",
+                "YEAR0": "1991.0",
+                "RANK0": "46.0",
+                "INVERSERA": "155.0",
+                "BUILDING0": "Key Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472618,
+                    31.247709
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.472618",
+                "HEIGHTFEE": "945.0",
+                "FLOORS0": "66.0",
+                "HEIGHTMET": "288.0",
+                "CITY0": "Shanghai",
+                "LATITUDE0": "31.247709",
+                "YEAR0": "2001.0",
+                "RANK0": "47.0",
+                "INVERSERA": "154.0",
+                "BUILDING0": "Plaza 66"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.162369,
+                    39.95227
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-75.162369",
+                "HEIGHTFEE": "945.0",
+                "FLOORS0": "61.0",
+                "HEIGHTMET": "288.0",
+                "CITY0": "Philadelphia",
+                "LATITUDE0": "39.95227",
+                "YEAR0": "1987.0",
+                "RANK0": "48.0",
+                "INVERSERA": "153.0",
+                "BUILDING0": "One Liberty Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.329729,
+                    47.60347
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-122.329729",
+                "HEIGHTFEE": "937.0",
+                "FLOORS0": "76.0",
+                "HEIGHTMET": "285.0",
+                "CITY0": "Seattle",
+                "LATITUDE0": "47.60347",
+                "YEAR0": "1985.0",
+                "RANK0": "49.0",
+                "INVERSERA": "152.0",
+                "BUILDING0": "Columbia Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.309212,
+                    25.27087
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "55.309212",
+                "HEIGHTFEE": "935.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "285.0",
+                "CITY0": "Dubai",
+                "LATITUDE0": "25.27087",
+                "YEAR0": "2006.0",
+                "RANK0": "50.0",
+                "INVERSERA": "151.0",
+                "BUILDING0": "Millennium Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472618,
+                    31.247709
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.472618",
+                "HEIGHTFEE": "934.0",
+                "FLOORS0": "55.0",
+                "HEIGHTMET": "285.0",
+                "CITY0": "Shanghai",
+                "LATITUDE0": "31.247709",
+                "YEAR0": "2003.0",
+                "RANK0": "51.0",
+                "INVERSERA": "150.0",
+                "BUILDING0": "Tomorrow Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.522621,
+                    29.544001
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "106.522621",
+                "HEIGHTFEE": "929.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "283.0",
+                "CITY0": "Chongqing",
+                "LATITUDE0": "29.544001",
+                "YEAR0": "2005.0",
+                "RANK0": "52.0",
+                "INVERSERA": "149.0",
+                "BUILDING0": "Chongqing World Trade Cen.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "928.0",
+                "FLOORS0": "62.0",
+                "HEIGHTMET": "283.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "1999.0",
+                "RANK0": "53.0",
+                "INVERSERA": "148.0",
+                "BUILDING0": "Cheung Kong Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "927.0",
+                "FLOORS0": "70.0",
+                "HEIGHTMET": "283.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "1930.0",
+                "RANK0": "54.0",
+                "INVERSERA": "147.0",
+                "BUILDING0": "The Trump Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.795614,
+                    32.778105
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-96.795614",
+                "HEIGHTFEE": "921.0",
+                "FLOORS0": "72.0",
+                "HEIGHTMET": "281.0",
+                "CITY0": "Dallas",
+                "LATITUDE0": "32.778105",
+                "YEAR0": "1985.0",
+                "RANK0": "55.0",
+                "INVERSERA": "146.0",
+                "BUILDING0": "Bank of America Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853256,
+                    1.29378
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "103.853256",
+                "HEIGHTFEE": "919.0",
+                "FLOORS0": "66.0",
+                "HEIGHTMET": "280.0",
+                "CITY0": "Singapore",
+                "LATITUDE0": "1.29378",
+                "YEAR0": "1996.0",
+                "RANK0": "56.0",
+                "INVERSERA": "145.0",
+                "BUILDING0": "Republic Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853256,
+                    1.29378
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "103.853256",
+                "HEIGHTFEE": "919.0",
+                "FLOORS0": "63.0",
+                "HEIGHTMET": "280.0",
+                "CITY0": "Singapore",
+                "LATITUDE0": "1.29378",
+                "YEAR0": "1988.0",
+                "RANK0": "57.0",
+                "INVERSERA": "144.0",
+                "BUILDING0": "OUB Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853256,
+                    1.29378
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "103.853256",
+                "HEIGHTFEE": "919.0",
+                "FLOORS0": "66.0",
+                "HEIGHTMET": "280.0",
+                "CITY0": "Singapore",
+                "LATITUDE0": "1.29378",
+                "YEAR0": "1992.0",
+                "RANK0": "58.0",
+                "INVERSERA": "143.0",
+                "BUILDING0": "UOB Plaza One"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "915.0",
+                "FLOORS0": "59.0",
+                "HEIGHTMET": "279.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "1977.0",
+                "RANK0": "59.0",
+                "INVERSERA": "142.0",
+                "BUILDING0": "Citigroup Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472618,
+                    31.247709
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.472618",
+                "HEIGHTFEE": "913.0",
+                "FLOORS0": "61.0",
+                "HEIGHTMET": "278.0",
+                "CITY0": "Shanghai",
+                "LATITUDE0": "31.247709",
+                "YEAR0": "2002.0",
+                "RANK0": "60.0",
+                "INVERSERA": "141.0",
+                "BUILDING0": "Hong Kong New World Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.267273,
+                    23.859659
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "108.267273",
+                "HEIGHTFEE": "906.0",
+                "FLOORS0": "54.0",
+                "HEIGHTMET": "276.0",
+                "CITY0": "Nanning",
+                "LATITUDE0": "23.859659",
+                "YEAR0": "2006.0",
+                "RANK0": "61.0",
+                "INVERSERA": "140.0",
+                "BUILDING0": "Diwang International Comm.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.385329,
+                    43.648565
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-79.385329",
+                "HEIGHTFEE": "902.0",
+                "FLOORS0": "68.0",
+                "HEIGHTMET": "275.0",
+                "CITY0": "Toronto",
+                "LATITUDE0": "43.648565",
+                "YEAR0": "1988.0",
+                "RANK0": "62.0",
+                "INVERSERA": "139.0",
+                "BUILDING0": "Scotia Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.369784,
+                    29.76045
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-95.369784",
+                "HEIGHTFEE": "901.0",
+                "FLOORS0": "64.0",
+                "HEIGHTMET": "275.0",
+                "CITY0": "Houston",
+                "LATITUDE0": "29.76045",
+                "YEAR0": "1983.0",
+                "RANK0": "63.0",
+                "INVERSERA": "138.0",
+                "BUILDING0": "Williams Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.246498,
+                    31.13958
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "112.246498",
+                "HEIGHTFEE": "896.0",
+                "FLOORS0": "58.0",
+                "HEIGHTMET": "273.0",
+                "CITY0": "Wuhan",
+                "LATITUDE0": "31.13958",
+                "YEAR0": "1998.0",
+                "RANK0": "64.0",
+                "INVERSERA": "137.0",
+                "BUILDING0": "Wuhan World Trade Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.795614,
+                    32.778105
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-96.795614",
+                "HEIGHTFEE": "886.0",
+                "FLOORS0": "56.0",
+                "HEIGHTMET": "270.0",
+                "CITY0": "Dallas",
+                "LATITUDE0": "32.778105",
+                "YEAR0": "1974.0",
+                "RANK0": "65.0",
+                "INVERSERA": "136.0",
+                "BUILDING0": "Renaissance Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "886.0",
+                "FLOORS0": "68.0",
+                "HEIGHTMET": "270.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "2007.0",
+                "RANK0": "66.0",
+                "INVERSERA": "135.0",
+                "BUILDING0": "The Cullinan North Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "886.0",
+                "FLOORS0": "68.0",
+                "HEIGHTMET": "270.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "2007.0",
+                "RANK0": "67.0",
+                "INVERSERA": "134.0",
+                "BUILDING0": "The Cullinan South Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.267616,
+                    23.107389
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "113.267616",
+                "HEIGHTFEE": "884.0",
+                "FLOORS0": "62.0",
+                "HEIGHTMET": "270.0",
+                "CITY0": "Guangzhou",
+                "LATITUDE0": "23.107389",
+                "YEAR0": "2007.0",
+                "RANK0": "68.0",
+                "INVERSERA": "133.0",
+                "BUILDING0": "China International Cente.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.267616,
+                    23.107389
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "113.267616",
+                "HEIGHTFEE": "884.0",
+                "FLOORS0": "56.0",
+                "HEIGHTMET": "269.0",
+                "CITY0": "Guangzhou",
+                "LATITUDE0": "23.107389",
+                "YEAR0": "2006.0",
+                "RANK0": "69.0",
+                "INVERSERA": "132.0",
+                "BUILDING0": "Dapeng International Plaz.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.309212,
+                    25.27087
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "55.309212",
+                "HEIGHTFEE": "883.0",
+                "FLOORS0": "55.0",
+                "HEIGHTMET": "269.0",
+                "CITY0": "Dubai",
+                "LATITUDE0": "25.27087",
+                "YEAR0": "2003.0",
+                "RANK0": "70.0",
+                "INVERSERA": "131.0",
+                "BUILDING0": "21st Century Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.62767,
+                    55.75061
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "37.62767",
+                "HEIGHTFEE": "881.0",
+                "FLOORS0": "61.0",
+                "HEIGHTMET": "268.0",
+                "CITY0": "Moscow",
+                "LATITUDE0": "55.75061",
+                "YEAR0": "2007.0",
+                "RANK0": "71.0",
+                "INVERSERA": "130.0",
+                "BUILDING0": "Naberezhnaya Tower C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.7533,
+                    24.64039
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "46.7533",
+                "HEIGHTFEE": "876.0",
+                "FLOORS0": "30.0",
+                "HEIGHTMET": "267.0",
+                "CITY0": "Riyadh",
+                "LATITUDE0": "24.64039",
+                "YEAR0": "2000.0",
+                "RANK0": "72.0",
+                "INVERSERA": "129.0",
+                "BUILDING0": "Al Faisaliyah Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632409,
+                    41.88415
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-87.632409",
+                "HEIGHTFEE": "871.0",
+                "FLOORS0": "66.0",
+                "HEIGHTMET": "265.0",
+                "CITY0": "Chicago",
+                "LATITUDE0": "41.88415",
+                "YEAR0": "1989.0",
+                "RANK0": "73.0",
+                "INVERSERA": "128.0",
+                "BUILDING0": "900 Northichigan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.837539,
+                    35.2225
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-80.837539",
+                "HEIGHTFEE": "871.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "265.0",
+                "CITY0": "Charlotte",
+                "LATITUDE0": "35.2225",
+                "YEAR0": "1992.0",
+                "RANK0": "74.0",
+                "INVERSERA": "127.0",
+                "BUILDING0": "Bank of America Corporate.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.390849,
+                    33.74817
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-84.390849",
+                "HEIGHTFEE": "871.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "265.0",
+                "CITY0": "Atlanta",
+                "LATITUDE0": "33.74817",
+                "YEAR0": "1992.0",
+                "RANK0": "75.0",
+                "INVERSERA": "126.0",
+                "BUILDING0": "SunTrust Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472618,
+                    31.247709
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.472618",
+                "HEIGHTFEE": "869.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "265.0",
+                "CITY0": "Shanghai",
+                "LATITUDE0": "31.247709",
+                "YEAR0": "2002.0",
+                "RANK0": "76.0",
+                "INVERSERA": "125.0",
+                "BUILDING0": "Bocom Financial Towers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.62767,
+                    55.75061
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "37.62767",
+                "HEIGHTFEE": "866.0",
+                "FLOORS0": "54.0",
+                "HEIGHTMET": "264.0",
+                "CITY0": "Moscow",
+                "LATITUDE0": "55.75061",
+                "YEAR0": "2005.0",
+                "RANK0": "77.0",
+                "INVERSERA": "124.0",
+                "BUILDING0": "Triumph-Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.979874,
+                    -37.82748
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "144.979874",
+                "HEIGHTFEE": "866.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "264.0",
+                "CITY0": "Melbourne",
+                "LATITUDE0": "-37.82748",
+                "YEAR0": "1991.0",
+                "RANK0": "78.0",
+                "INVERSERA": "123.0",
+                "BUILDING0": "120 Collins Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.977379,
+                    37.557121
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "126.977379",
+                "HEIGHTFEE": "865.0",
+                "FLOORS0": "73.0",
+                "HEIGHTMET": "264.0",
+                "CITY0": "Seoul",
+                "LATITUDE0": "37.557121",
+                "YEAR0": "2004.0",
+                "RANK0": "79.0",
+                "INVERSERA": "122.0",
+                "BUILDING0": "Tower Palace Three, Tower.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "861.0",
+                "FLOORS0": "72.0",
+                "HEIGHTMET": "262.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "2001.0",
+                "RANK0": "80.0",
+                "INVERSERA": "121.0",
+                "BUILDING0": "Trump World Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.112556,
+                    22.546789
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.112556",
+                "HEIGHTFEE": "860.0",
+                "FLOORS0": "48.0",
+                "HEIGHTMET": "262.0",
+                "CITY0": "Shenzhen",
+                "LATITUDE0": "22.546789",
+                "YEAR0": "1998.0",
+                "RANK0": "81.0",
+                "INVERSERA": "120.0",
+                "BUILDING0": "Shenzhen Special Zone Pre.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632409,
+                    41.88415
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-87.632409",
+                "HEIGHTFEE": "859.0",
+                "FLOORS0": "74.0",
+                "HEIGHTMET": "262.0",
+                "CITY0": "Chicago",
+                "LATITUDE0": "41.88415",
+                "YEAR0": "1976.0",
+                "RANK0": "82.0",
+                "INVERSERA": "119.0",
+                "BUILDING0": "Water Tower Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472618,
+                    31.247709
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.472618",
+                "HEIGHTFEE": "859.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "262.0",
+                "CITY0": "Shanghai",
+                "LATITUDE0": "31.247709",
+                "YEAR0": "2005.0",
+                "RANK0": "83.0",
+                "INVERSERA": "118.0",
+                "BUILDING0": "Grand Gateway Shanghai I"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472618,
+                    31.247709
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.472618",
+                "HEIGHTFEE": "859.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "262.0",
+                "CITY0": "Shanghai",
+                "LATITUDE0": "31.247709",
+                "YEAR0": "2005.0",
+                "RANK0": "84.0",
+                "INVERSERA": "117.0",
+                "BUILDING0": "Grand Gateway Shanghai II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.245009,
+                    34.05329
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-118.245009",
+                "HEIGHTFEE": "858.0",
+                "FLOORS0": "62.0",
+                "HEIGHTMET": "262.0",
+                "CITY0": "Los Angeles",
+                "LATITUDE0": "34.05329",
+                "YEAR0": "1973.0",
+                "RANK0": "85.0",
+                "INVERSERA": "116.0",
+                "BUILDING0": "Aon Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "856.0",
+                "FLOORS0": "64.0",
+                "HEIGHTMET": "261.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "2007.0",
+                "RANK0": "86.0",
+                "INVERSERA": "115.0",
+                "BUILDING0": "Hotel Panorama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.385329,
+                    43.648565
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-79.385329",
+                "HEIGHTFEE": "856.0",
+                "FLOORS0": "53.0",
+                "HEIGHTMET": "261.0",
+                "CITY0": "Toronto",
+                "LATITUDE0": "43.648565",
+                "YEAR0": "1990.0",
+                "RANK0": "87.0",
+                "INVERSERA": "114.0",
+                "BUILDING0": "Canada Trust Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.979874,
+                    -37.82748
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "144.979874",
+                "HEIGHTFEE": "853.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "260.0",
+                "CITY0": "Melbourne",
+                "LATITUDE0": "-37.82748",
+                "YEAR0": "1991.0",
+                "RANK0": "88.0",
+                "INVERSERA": "113.0",
+                "BUILDING0": "101 Collins Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.387909,
+                    39.90601
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "116.387909",
+                "HEIGHTFEE": "853.0",
+                "FLOORS0": "63.0",
+                "HEIGHTMET": "260.0",
+                "CITY0": "Beijing",
+                "LATITUDE0": "39.90601",
+                "YEAR0": "2008.0",
+                "RANK0": "89.0",
+                "INVERSERA": "112.0",
+                "BUILDING0": "Fortune Plaza Office Buil.. *"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.581478,
+                    26.228849
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "50.581478",
+                "HEIGHTFEE": "853.0",
+                "FLOORS0": "53.0",
+                "HEIGHTMET": "260.0",
+                "CITY0": "Manama",
+                "LATITUDE0": "26.228849",
+                "YEAR0": "2007.0",
+                "RANK0": "90.0",
+                "INVERSERA": "111.0",
+                "BUILDING0": "Dual Tower 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.581478,
+                    26.228849
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "50.581478",
+                "HEIGHTFEE": "853.0",
+                "FLOORS0": "53.0",
+                "HEIGHTMET": "260.0",
+                "CITY0": "Manama",
+                "LATITUDE0": "26.228849",
+                "YEAR0": "2007.0",
+                "RANK0": "91.0",
+                "INVERSERA": "110.0",
+                "BUILDING0": "Dual Tower 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.267616,
+                    23.107389
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "113.267616",
+                "HEIGHTFEE": "853.0",
+                "FLOORS0": "66.0",
+                "HEIGHTMET": "260.0",
+                "CITY0": "Guangzhou",
+                "LATITUDE0": "23.107389",
+                "YEAR0": "2003.0",
+                "RANK0": "92.0",
+                "INVERSERA": "109.0",
+                "BUILDING0": "Post & Telecommunication .."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.420049,
+                    37.77916
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-122.420049",
+                "HEIGHTFEE": "853.0",
+                "FLOORS0": "48.0",
+                "HEIGHTMET": "260.0",
+                "CITY0": "San Francisco",
+                "LATITUDE0": "37.77916",
+                "YEAR0": "1972.0",
+                "RANK0": "93.0",
+                "INVERSERA": "108.0",
+                "BUILDING0": "Transamerica Pyramid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632409,
+                    41.88415
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-87.632409",
+                "HEIGHTFEE": "850.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "259.0",
+                "CITY0": "Chicago",
+                "LATITUDE0": "41.88415",
+                "YEAR0": "1969.0",
+                "RANK0": "94.0",
+                "INVERSERA": "107.0",
+                "BUILDING0": "Chase Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "850.0",
+                "FLOORS0": "69.0",
+                "HEIGHTMET": "259.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "1933.0",
+                "RANK0": "95.0",
+                "INVERSERA": "106.0",
+                "BUILDING0": "GE Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.526249,
+                    49.680463
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "10.526249",
+                "HEIGHTFEE": "850.0",
+                "FLOORS0": "56.0",
+                "HEIGHTMET": "259.0",
+                "CITY0": "Frankfurt",
+                "LATITUDE0": "49.680463",
+                "YEAR0": "1997.0",
+                "RANK0": "96.0",
+                "INVERSERA": "105.0",
+                "BUILDING0": "Commerzbank Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.033302,
+                    14.5667
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.033302",
+                "HEIGHTFEE": "848.0",
+                "FLOORS0": "55.0",
+                "HEIGHTMET": "259.0",
+                "CITY0": "Makati",
+                "LATITUDE0": "14.5667",
+                "YEAR0": "2000.0",
+                "RANK0": "97.0",
+                "INVERSERA": "104.0",
+                "BUILDING0": "PBCOM Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.162369,
+                    39.95227
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-75.162369",
+                "HEIGHTFEE": "848.0",
+                "FLOORS0": "58.0",
+                "HEIGHTMET": "258.0",
+                "CITY0": "Philadelphia",
+                "LATITUDE0": "39.95227",
+                "YEAR0": "1990.0",
+                "RANK0": "98.0",
+                "INVERSERA": "103.0",
+                "BUILDING0": "Two Liberty Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.547112,
+                    22.201
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "113.547112",
+                "HEIGHTFEE": "846.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "258.0",
+                "CITY0": "Macao",
+                "LATITUDE0": "22.201",
+                "YEAR0": "2008.0",
+                "RANK0": "99.0",
+                "INVERSERA": "102.0",
+                "BUILDING0": "Grand Lisboa *"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632409,
+                    41.88415
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-87.632409",
+                "HEIGHTFEE": "844.0",
+                "FLOORS0": "67.0",
+                "HEIGHTMET": "257.0",
+                "CITY0": "Chicago",
+                "LATITUDE0": "41.88415",
+                "YEAR0": "2000.0",
+                "RANK0": "100.0",
+                "INVERSERA": "101.0",
+                "BUILDING0": "Park Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.526249,
+                    49.680463
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "10.526249",
+                "HEIGHTFEE": "842.0",
+                "FLOORS0": "55.0",
+                "HEIGHTMET": "257.0",
+                "CITY0": "Frankfurt",
+                "LATITUDE0": "49.680463",
+                "YEAR0": "1990.0",
+                "RANK0": "101.0",
+                "INVERSERA": "100.0",
+                "BUILDING0": "MesseTurm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.997459,
+                    40.43831
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-79.997459",
+                "HEIGHTFEE": "841.0",
+                "FLOORS0": "64.0",
+                "HEIGHTMET": "256.0",
+                "CITY0": "Pittsburgh",
+                "LATITUDE0": "40.43831",
+                "YEAR0": "1970.0",
+                "RANK0": "102.0",
+                "INVERSERA": "99.0",
+                "BUILDING0": "U.S. Steel Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "841.0",
+                "FLOORS0": "75.0",
+                "HEIGHTMET": "256.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "2003.0",
+                "RANK0": "103.0",
+                "INVERSERA": "98.0",
+                "BUILDING0": "Sorrento 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.309212,
+                    25.27087
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "55.309212",
+                "HEIGHTFEE": "840.0",
+                "FLOORS0": "59.0",
+                "HEIGHTMET": "256.0",
+                "CITY0": "Dubai",
+                "LATITUDE0": "25.27087",
+                "YEAR0": "2007.0",
+                "RANK0": "104.0",
+                "INVERSERA": "97.0",
+                "BUILDING0": "Emiratesarina Serviced .."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.977379,
+                    37.557121
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "126.977379",
+                "HEIGHTFEE": "840.0",
+                "FLOORS0": "69.0",
+                "HEIGHTMET": "256.0",
+                "CITY0": "Seoul",
+                "LATITUDE0": "37.557121",
+                "YEAR0": "2003.0",
+                "RANK0": "105.0",
+                "INVERSERA": "96.0",
+                "BUILDING0": "Mok-dong Hyperion I, Towe.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.318573,
+                    34.382771
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "135.318573",
+                "HEIGHTFEE": "840.0",
+                "FLOORS0": "56.0",
+                "HEIGHTMET": "256.0",
+                "CITY0": "Izumisano",
+                "LATITUDE0": "34.382771",
+                "YEAR0": "1996.0",
+                "RANK0": "106.0",
+                "INVERSERA": "95.0",
+                "BUILDING0": "Rinku Gate Tower Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.778969,
+                    32.0485
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "118.778969",
+                "HEIGHTFEE": "837.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "255.0",
+                "CITY0": "Nanjing",
+                "LATITUDE0": "32.0485",
+                "YEAR0": "2006.0",
+                "RANK0": "107.0",
+                "INVERSERA": "94.0",
+                "BUILDING0": "New Century Plaza Tower A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "837.0",
+                "FLOORS0": "59.0",
+                "HEIGHTMET": "255.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "2004.0",
+                "RANK0": "108.0",
+                "INVERSERA": "93.0",
+                "BUILDING0": "Langham Place Office Towe.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853256,
+                    1.29378
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "103.853256",
+                "HEIGHTFEE": "830.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "253.0",
+                "CITY0": "Singapore",
+                "LATITUDE0": "1.29378",
+                "YEAR0": "2000.0",
+                "RANK0": "109.0",
+                "INVERSERA": "92.0",
+                "BUILDING0": "Capital Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "828.0",
+                "FLOORS0": "72.0",
+                "HEIGHTMET": "252.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "2003.0",
+                "RANK0": "110.0",
+                "INVERSERA": "91.0",
+                "BUILDING0": "Highcliff"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472618,
+                    31.247709
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.472618",
+                "HEIGHTFEE": "827.0",
+                "FLOORS0": "46.0",
+                "HEIGHTMET": "252.0",
+                "CITY0": "Shanghai",
+                "LATITUDE0": "31.247709",
+                "YEAR0": "2005.0",
+                "RANK0": "111.0",
+                "INVERSERA": "90.0",
+                "BUILDING0": "Bank of Shanghai Headquar.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.50325,
+                    34.677471
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "135.50325",
+                "HEIGHTFEE": "827.0",
+                "FLOORS0": "55.0",
+                "HEIGHTMET": "252.0",
+                "CITY0": "Osaka",
+                "LATITUDE0": "34.677471",
+                "YEAR0": "1995.0",
+                "RANK0": "112.0",
+                "INVERSERA": "89.0",
+                "BUILDING0": "Osaka World Trade Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "824.0",
+                "FLOORS0": "73.0",
+                "HEIGHTMET": "251.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "2003.0",
+                "RANK0": "113.0",
+                "INVERSERA": "88.0",
+                "BUILDING0": "The Harbourside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.979874,
+                    -37.82748
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "144.979874",
+                "HEIGHTFEE": "824.0",
+                "FLOORS0": "63.0",
+                "HEIGHTMET": "251.0",
+                "CITY0": "Melbourne",
+                "LATITUDE0": "-37.82748",
+                "YEAR0": "1986.0",
+                "RANK0": "114.0",
+                "INVERSERA": "87.0",
+                "BUILDING0": "Rialto Towers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.279121,
+                    30.572399
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.279121",
+                "HEIGHTFEE": "823.0",
+                "FLOORS0": "61.0",
+                "HEIGHTMET": "251.0",
+                "CITY0": "Wuhan",
+                "LATITUDE0": "30.572399",
+                "YEAR0": "1997.0",
+                "RANK0": "115.0",
+                "INVERSERA": "86.0",
+                "BUILDING0": "Jiali Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.309212,
+                    25.27087
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "55.309212",
+                "HEIGHTFEE": "820.0",
+                "FLOORS0": "49.0",
+                "HEIGHTMET": "250.0",
+                "CITY0": "Dubai",
+                "LATITUDE0": "25.27087",
+                "YEAR0": "2005.0",
+                "RANK0": "116.0",
+                "INVERSERA": "85.0",
+                "BUILDING0": "Chelsea Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.829109,
+                    -6.18287
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "106.829109",
+                "HEIGHTFEE": "820.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "250.0",
+                "CITY0": "Jakarta",
+                "LATITUDE0": "-6.18287",
+                "YEAR0": "1996.0",
+                "RANK0": "117.0",
+                "INVERSERA": "84.0",
+                "BUILDING0": "Wisma 46"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.390849,
+                    33.74817
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-84.390849",
+                "HEIGHTFEE": "820.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "250.0",
+                "CITY0": "Atlanta",
+                "LATITUDE0": "33.74817",
+                "YEAR0": "1987.0",
+                "RANK0": "118.0",
+                "INVERSERA": "83.0",
+                "BUILDING0": "One Atlantic Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.387909,
+                    39.90601
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "116.387909",
+                "HEIGHTFEE": "820.0",
+                "FLOORS0": "63.0",
+                "HEIGHTMET": "250.0",
+                "CITY0": "Beijing",
+                "LATITUDE0": "39.90601",
+                "YEAR0": "2007.0",
+                "RANK0": "119.0",
+                "INVERSERA": "82.0",
+                "BUILDING0": "Beijing Yintai Centre Tow.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.705794,
+                    40.4203
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-3.705794",
+                "HEIGHTFEE": "820.0",
+                "FLOORS0": "45.0",
+                "HEIGHTMET": "250.0",
+                "CITY0": "Madrid",
+                "LATITUDE0": "40.4203",
+                "YEAR0": "2008.0",
+                "RANK0": "120.0",
+                "INVERSERA": "81.0",
+                "BUILDING0": "Torre Repsol *"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.977379,
+                    37.557121
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "126.977379",
+                "HEIGHTFEE": "817.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "249.0",
+                "CITY0": "Seoul",
+                "LATITUDE0": "37.557121",
+                "YEAR0": "1985.0",
+                "RANK0": "121.0",
+                "INVERSERA": "80.0",
+                "BUILDING0": "KLI 63 Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.189089,
+                    43.019046
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.189089",
+                "HEIGHTFEE": "817.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "249.0",
+                "CITY0": "Perth",
+                "LATITUDE0": "43.019046",
+                "YEAR0": "1992.0",
+                "RANK0": "122.0",
+                "INVERSERA": "79.0",
+                "BUILDING0": "Central Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.705794,
+                    40.4203
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-3.705794",
+                "HEIGHTFEE": "817.0",
+                "FLOORS0": "45.0",
+                "HEIGHTMET": "249.0",
+                "CITY0": "Madrid",
+                "LATITUDE0": "40.4203",
+                "YEAR0": "2007.0",
+                "RANK0": "123.0",
+                "INVERSERA": "78.0",
+                "BUILDING0": "Torre de Cristal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "814.0",
+                "FLOORS0": "75.0",
+                "HEIGHTMET": "248.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "1987.0",
+                "RANK0": "124.0",
+                "INVERSERA": "77.0",
+                "BUILDING0": "CitySpire Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.083656,
+                    29.19083
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "120.083656",
+                "HEIGHTFEE": "814.0",
+                "FLOORS0": "41.0",
+                "HEIGHTMET": "248.0",
+                "CITY0": "Hangzhou",
+                "LATITUDE0": "29.19083",
+                "YEAR0": "2003.0",
+                "RANK0": "125.0",
+                "INVERSERA": "76.0",
+                "BUILDING0": "Hangzhou No.2 Telecom Hub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.740921,
+                    35.670479
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "139.740921",
+                "HEIGHTFEE": "813.0",
+                "FLOORS0": "54.0",
+                "HEIGHTMET": "248.0",
+                "CITY0": "Tokyo",
+                "LATITUDE0": "35.670479",
+                "YEAR0": "2007.0",
+                "RANK0": "126.0",
+                "INVERSERA": "75.0",
+                "BUILDING0": "Mid Town Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "813.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "248.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "1961.0",
+                "RANK0": "127.0",
+                "INVERSERA": "74.0",
+                "BUILDING0": "One Chaseanhattan Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.641418,
+                    13.72635
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "100.641418",
+                "HEIGHTFEE": "811.0",
+                "FLOORS0": "68.0",
+                "HEIGHTMET": "247.0",
+                "CITY0": "Bangkok",
+                "LATITUDE0": "13.72635",
+                "YEAR0": "2001.0",
+                "RANK0": "128.0",
+                "INVERSERA": "73.0",
+                "BUILDING0": "State Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.149964,
+                    39.76691
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-86.149964",
+                "HEIGHTFEE": "811.0",
+                "FLOORS0": "49.0",
+                "HEIGHTMET": "247.0",
+                "CITY0": "Indianapolis",
+                "LATITUDE0": "39.76691",
+                "YEAR0": "1990.0",
+                "RANK0": "129.0",
+                "INVERSERA": "72.0",
+                "BUILDING0": "Chase Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9263,
+                    35.14986
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "136.9263",
+                "HEIGHTFEE": "810.0",
+                "FLOORS0": "40.0",
+                "HEIGHTMET": "247.0",
+                "CITY0": "Nagoya",
+                "LATITUDE0": "35.14986",
+                "YEAR0": "2006.0",
+                "RANK0": "130.0",
+                "INVERSERA": "71.0",
+                "BUILDING0": "Midland Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "809.0",
+                "FLOORS0": "48.0",
+                "HEIGHTMET": "247.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "1999.0",
+                "RANK0": "131.0",
+                "INVERSERA": "70.0",
+                "BUILDING0": "4 Times Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "808.0",
+                "FLOORS0": "59.0",
+                "HEIGHTMET": "246.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "1963.0",
+                "RANK0": "132.0",
+                "INVERSERA": "69.0",
+                "BUILDING0": "MetLife Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "806.0",
+                "FLOORS0": "54.0",
+                "HEIGHTMET": "246.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "2005.0",
+                "RANK0": "133.0",
+                "INVERSERA": "68.0",
+                "BUILDING0": "Bloomberg Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853256,
+                    1.29378
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "103.853256",
+                "HEIGHTFEE": "804.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "245.0",
+                "CITY0": "Singapore",
+                "LATITUDE0": "1.29378",
+                "YEAR0": "2006.0",
+                "RANK0": "134.0",
+                "INVERSERA": "67.0",
+                "BUILDING0": "One Raffles Quay North To.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.309212,
+                    25.27087
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "55.309212",
+                "HEIGHTFEE": "804.0",
+                "FLOORS0": "51.0",
+                "HEIGHTMET": "245.0",
+                "CITY0": "Dubai",
+                "LATITUDE0": "25.27087",
+                "YEAR0": "2006.0",
+                "RANK0": "135.0",
+                "INVERSERA": "66.0",
+                "BUILDING0": "Al Fattan Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9263,
+                    35.14986
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "136.9263",
+                "HEIGHTFEE": "804.0",
+                "FLOORS0": "51.0",
+                "HEIGHTMET": "245.0",
+                "CITY0": "Nagoya",
+                "LATITUDE0": "35.14986",
+                "YEAR0": "2000.0",
+                "RANK0": "136.0",
+                "INVERSERA": "65.0",
+                "BUILDING0": "JR Central Office Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.309212,
+                    25.27087
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "55.309212",
+                "HEIGHTFEE": "804.0",
+                "FLOORS0": "51.0",
+                "HEIGHTMET": "245.0",
+                "CITY0": "Dubai",
+                "LATITUDE0": "25.27087",
+                "YEAR0": "2006.0",
+                "RANK0": "137.0",
+                "INVERSERA": "64.0",
+                "BUILDING0": "Oasis Beach Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564194,
+                    25.080441
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.564194",
+                "HEIGHTFEE": "803.0",
+                "FLOORS0": "51.0",
+                "HEIGHTMET": "245.0",
+                "CITY0": "Taipei",
+                "LATITUDE0": "25.080441",
+                "YEAR0": "1993.0",
+                "RANK0": "138.0",
+                "INVERSERA": "63.0",
+                "BUILDING0": "Shin Kong Life Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.812969,
+                    32.084389
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "34.812969",
+                "HEIGHTFEE": "801.0",
+                "FLOORS0": "68.0",
+                "HEIGHTMET": "244.0",
+                "CITY0": "Ramat Gan",
+                "LATITUDE0": "32.084389",
+                "YEAR0": "2001.0",
+                "RANK0": "139.0",
+                "INVERSERA": "62.0",
+                "BUILDING0": "City Gate Ramat Gan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.211945,
+                    -33.86496
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "151.211945",
+                "HEIGHTFEE": "801.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "244.0",
+                "CITY0": "Sydney",
+                "LATITUDE0": "-33.86496",
+                "YEAR0": "1992.0",
+                "RANK0": "140.0",
+                "INVERSERA": "61.0",
+                "BUILDING0": "Chifley Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.707611,
+                    3.1501
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "101.707611",
+                "HEIGHTFEE": "799.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "244.0",
+                "CITY0": "Kuala Lumpur",
+                "LATITUDE0": "3.1501",
+                "YEAR0": "1988.0",
+                "RANK0": "141.0",
+                "INVERSERA": "60.0",
+                "BUILDING0": "Menaraaybank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.740921,
+                    35.670479
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "139.740921",
+                "HEIGHTFEE": "799.0",
+                "FLOORS0": "48.0",
+                "HEIGHTMET": "243.0",
+                "CITY0": "Tokyo",
+                "LATITUDE0": "35.670479",
+                "YEAR0": "1991.0",
+                "RANK0": "142.0",
+                "INVERSERA": "59.0",
+                "BUILDING0": "Tokyo City Hall, Tower I"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.211945,
+                    -33.86496
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "151.211945",
+                "HEIGHTFEE": "797.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "243.0",
+                "CITY0": "Sydney",
+                "LATITUDE0": "-33.86496",
+                "YEAR0": "2000.0",
+                "RANK0": "143.0",
+                "INVERSERA": "58.0",
+                "BUILDING0": "Citigroup Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.309212,
+                    25.27087
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "55.309212",
+                "HEIGHTFEE": "796.0",
+                "FLOORS0": "54.0",
+                "HEIGHTMET": "243.0",
+                "CITY0": "Dubai",
+                "LATITUDE0": "25.27087",
+                "YEAR0": "2002.0",
+                "RANK0": "144.0",
+                "INVERSERA": "57.0",
+                "BUILDING0": "The Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.62767,
+                    55.75061
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "37.62767",
+                "HEIGHTFEE": "795.0",
+                "FLOORS0": "62.0",
+                "HEIGHTMET": "242.0",
+                "CITY0": "Moscow",
+                "LATITUDE0": "55.75061",
+                "YEAR0": "2008.0",
+                "RANK0": "145.0",
+                "INVERSERA": "56.0",
+                "BUILDING0": "Zapad *"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.576523,
+                    38.94381
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.576523",
+                "HEIGHTFEE": "794.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "242.0",
+                "CITY0": "Dalian",
+                "LATITUDE0": "38.94381",
+                "YEAR0": "2000.0",
+                "RANK0": "146.0",
+                "INVERSERA": "55.0",
+                "BUILDING0": "Dalian World Trade Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.162369,
+                    39.95227
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-75.162369",
+                "HEIGHTFEE": "792.0",
+                "FLOORS0": "54.0",
+                "HEIGHTMET": "241.0",
+                "CITY0": "Philadelphia",
+                "LATITUDE0": "39.95227",
+                "YEAR0": "1990.0",
+                "RANK0": "147.0",
+                "INVERSERA": "54.0",
+                "BUILDING0": "Mellon Bank Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "792.0",
+                "FLOORS0": "57.0",
+                "HEIGHTMET": "241.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "1913.0",
+                "RANK0": "148.0",
+                "INVERSERA": "53.0",
+                "BUILDING0": "Woolworth Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.265249,
+                    44.978625
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-93.265249",
+                "HEIGHTFEE": "792.0",
+                "FLOORS0": "55.0",
+                "HEIGHTMET": "241.0",
+                "CITY0": "Minneapolis",
+                "LATITUDE0": "44.978625",
+                "YEAR0": "1973.0",
+                "RANK0": "149.0",
+                "INVERSERA": "52.0",
+                "BUILDING0": "IDS Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472618,
+                    31.247709
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.472618",
+                "HEIGHTFEE": "792.0",
+                "FLOORS0": "55.0",
+                "HEIGHTMET": "241.0",
+                "CITY0": "Shanghai",
+                "LATITUDE0": "31.247709",
+                "YEAR0": "2002.0",
+                "RANK0": "150.0",
+                "INVERSERA": "51.0",
+                "BUILDING0": "Maxdo Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34272,
+                    36.087509
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "120.34272",
+                "HEIGHTFEE": "791.0",
+                "FLOORS0": "54.0",
+                "HEIGHTMET": "241.0",
+                "CITY0": "Qingdao",
+                "LATITUDE0": "36.087509",
+                "YEAR0": "1999.0",
+                "RANK0": "151.0",
+                "INVERSERA": "50.0",
+                "BUILDING0": "Bank of Chinaansion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.056699,
+                    42.358635
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-71.056699",
+                "HEIGHTFEE": "790.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "241.0",
+                "CITY0": "Boston",
+                "LATITUDE0": "42.358635",
+                "YEAR0": "1976.0",
+                "RANK0": "152.0",
+                "INVERSERA": "49.0",
+                "BUILDING0": "Hancock Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.237419,
+                    25.728985
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-80.237419",
+                "HEIGHTFEE": "789.0",
+                "FLOORS0": "64.0",
+                "HEIGHTMET": "240.0",
+                "CITY0": "Miami",
+                "LATITUDE0": "25.728985",
+                "YEAR0": "2003.0",
+                "RANK0": "153.0",
+                "INVERSERA": "48.0",
+                "BUILDING0": "Four Seasons Hotel & Towe.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "789.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "240.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "1998.0",
+                "RANK0": "154.0",
+                "INVERSERA": "47.0",
+                "BUILDING0": "Manulife Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.112556,
+                    22.546789
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.112556",
+                "HEIGHTFEE": "787.0",
+                "FLOORS0": "57.0",
+                "HEIGHTMET": "240.0",
+                "CITY0": "Shenzhen",
+                "LATITUDE0": "22.546789",
+                "YEAR0": "1999.0",
+                "RANK0": "155.0",
+                "INVERSERA": "46.0",
+                "BUILDING0": "Panglin Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.581478,
+                    26.228849
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "50.581478",
+                "HEIGHTFEE": "787.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "240.0",
+                "CITY0": "Manama",
+                "LATITUDE0": "26.228849",
+                "YEAR0": "2008.0",
+                "RANK0": "156.0",
+                "INVERSERA": "45.0",
+                "BUILDING0": "Bahrain World Trade Centr.. *"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.581478,
+                    26.228849
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "50.581478",
+                "HEIGHTFEE": "787.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "240.0",
+                "CITY0": "Manama",
+                "LATITUDE0": "26.228849",
+                "YEAR0": "2008.0",
+                "RANK0": "157.0",
+                "INVERSERA": "44.0",
+                "BUILDING0": "Bahrain World Trade Centr.. *"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.62767,
+                    55.75061
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "37.62767",
+                "HEIGHTFEE": "787.0",
+                "FLOORS0": "36.0",
+                "HEIGHTMET": "240.0",
+                "CITY0": "Moscow",
+                "LATITUDE0": "55.75061",
+                "YEAR0": "1953.0",
+                "RANK0": "158.0",
+                "INVERSERA": "43.0",
+                "BUILDING0": "Moscow State University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.740921,
+                    35.670479
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "139.740921",
+                "HEIGHTFEE": "787.0",
+                "FLOORS0": "28.0",
+                "HEIGHTMET": "240.0",
+                "CITY0": "Tokyo",
+                "LATITUDE0": "35.670479",
+                "YEAR0": "2000.0",
+                "RANK0": "159.0",
+                "INVERSERA": "42.0",
+                "BUILDING0": "NTT DoCoMo Yoyogi Buildin.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.740921,
+                    35.670479
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "139.740921",
+                "HEIGHTFEE": "787.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "240.0",
+                "CITY0": "Tokyo",
+                "LATITUDE0": "35.670479",
+                "YEAR0": "1978.0",
+                "RANK0": "160.0",
+                "INVERSERA": "41.0",
+                "BUILDING0": "Sunshine 60 Building"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.211945,
+                    -33.86496
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "151.211945",
+                "HEIGHTFEE": "787.0",
+                "FLOORS0": "39.0",
+                "HEIGHTMET": "240.0",
+                "CITY0": "Sydney",
+                "LATITUDE0": "-33.86496",
+                "YEAR0": "2005.0",
+                "RANK0": "161.0",
+                "INVERSERA": "40.0",
+                "BUILDING0": "Deutsche Bank Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.795614,
+                    32.778105
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-96.795614",
+                "HEIGHTFEE": "787.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "240.0",
+                "CITY0": "Dallas",
+                "LATITUDE0": "32.778105",
+                "YEAR0": "1987.0",
+                "RANK0": "162.0",
+                "INVERSERA": "39.0",
+                "BUILDING0": "Chase Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.977379,
+                    37.557121
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "126.977379",
+                "HEIGHTFEE": "785.0",
+                "FLOORS0": "63.0",
+                "HEIGHTMET": "239.0",
+                "CITY0": "Seoul",
+                "LATITUDE0": "37.557121",
+                "YEAR0": "2003.0",
+                "RANK0": "163.0",
+                "INVERSERA": "38.0",
+                "BUILDING0": "Mok-dong Hyperion I, Towe.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.387909,
+                    39.90601
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "116.387909",
+                "HEIGHTFEE": "784.0",
+                "FLOORS0": "41.0",
+                "HEIGHTMET": "239.0",
+                "CITY0": "Beijing",
+                "LATITUDE0": "39.90601",
+                "YEAR0": "2006.0",
+                "RANK0": "164.0",
+                "INVERSERA": "37.0",
+                "BUILDING0": "Beijing TV Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.385329,
+                    43.648565
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-79.385329",
+                "HEIGHTFEE": "784.0",
+                "FLOORS0": "57.0",
+                "HEIGHTMET": "239.0",
+                "CITY0": "Toronto",
+                "LATITUDE0": "43.648565",
+                "YEAR0": "1972.0",
+                "RANK0": "165.0",
+                "INVERSERA": "36.0",
+                "BUILDING0": "Commerce Court West"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.740921,
+                    35.670479
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "139.740921",
+                "HEIGHTFEE": "781.0",
+                "FLOORS0": "54.0",
+                "HEIGHTMET": "238.0",
+                "CITY0": "Tokyo",
+                "LATITUDE0": "35.670479",
+                "YEAR0": "2003.0",
+                "RANK0": "166.0",
+                "INVERSERA": "35.0",
+                "BUILDING0": "Roppongi Hillsori Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.043234,
+                    40.7174
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.043234",
+                "HEIGHTFEE": "781.0",
+                "FLOORS0": "42.0",
+                "HEIGHTMET": "238.0",
+                "CITY0": "Jersey City",
+                "LATITUDE0": "40.7174",
+                "YEAR0": "2004.0",
+                "RANK0": "167.0",
+                "INVERSERA": "34.0",
+                "BUILDING0": "30 Hudson Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472618,
+                    31.247709
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.472618",
+                "HEIGHTFEE": "781.0",
+                "FLOORS0": "58.0",
+                "HEIGHTMET": "238.0",
+                "CITY0": "Shanghai",
+                "LATITUDE0": "31.247709",
+                "YEAR0": "2006.0",
+                "RANK0": "168.0",
+                "INVERSERA": "33.0",
+                "BUILDING0": "Cloud Nine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.112556,
+                    22.546789
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.112556",
+                "HEIGHTFEE": "781.0",
+                "FLOORS0": "53.0",
+                "HEIGHTMET": "238.0",
+                "CITY0": "Shenzhen",
+                "LATITUDE0": "22.546789",
+                "YEAR0": "2006.0",
+                "RANK0": "169.0",
+                "INVERSERA": "32.0",
+                "BUILDING0": "New World Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.707611,
+                    3.1501
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "101.707611",
+                "HEIGHTFEE": "781.0",
+                "FLOORS0": "62.0",
+                "HEIGHTMET": "238.0",
+                "CITY0": "Kuala Lumpur",
+                "LATITUDE0": "3.1501",
+                "YEAR0": "1994.0",
+                "RANK0": "170.0",
+                "INVERSERA": "31.0",
+                "BUILDING0": "Empire Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.185112,
+                    39.128399
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "117.185112",
+                "HEIGHTFEE": "781.0",
+                "FLOORS0": "51.0",
+                "HEIGHTMET": "238.0",
+                "CITY0": "Tianjin",
+                "LATITUDE0": "39.128399",
+                "YEAR0": "2004.0",
+                "RANK0": "171.0",
+                "INVERSERA": "30.0",
+                "BUILDING0": "Tianjin Xinda Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.369784,
+                    29.76045
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-95.369784",
+                "HEIGHTFEE": "780.0",
+                "FLOORS0": "56.0",
+                "HEIGHTMET": "238.0",
+                "CITY0": "Houston",
+                "LATITUDE0": "29.76045",
+                "YEAR0": "1983.0",
+                "RANK0": "172.0",
+                "INVERSERA": "29.0",
+                "BUILDING0": "Bank of America Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.420049,
+                    37.77916
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-122.420049",
+                "HEIGHTFEE": "779.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "237.0",
+                "CITY0": "San Francisco",
+                "LATITUDE0": "37.77916",
+                "YEAR0": "1969.0",
+                "RANK0": "173.0",
+                "INVERSERA": "28.0",
+                "BUILDING0": "555 California Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "778.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "237.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "1989.0",
+                "RANK0": "174.0",
+                "INVERSERA": "27.0",
+                "BUILDING0": "One Worldwide Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.265249,
+                    44.978625
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-93.265249",
+                "HEIGHTFEE": "776.0",
+                "FLOORS0": "56.0",
+                "HEIGHTMET": "237.0",
+                "CITY0": "Minneapolis",
+                "LATITUDE0": "44.978625",
+                "YEAR0": "1992.0",
+                "RANK0": "175.0",
+                "INVERSERA": "26.0",
+                "BUILDING0": "225 South Sixth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.705794,
+                    40.4203
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-3.705794",
+                "HEIGHTFEE": "774.0",
+                "FLOORS0": "57.0",
+                "HEIGHTMET": "236.0",
+                "CITY0": "Madrid",
+                "LATITUDE0": "40.4203",
+                "YEAR0": "2007.0",
+                "RANK0": "176.0",
+                "INVERSERA": "25.0",
+                "BUILDING0": "Torre Espacio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.705794,
+                    40.4203
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-3.705794",
+                "HEIGHTFEE": "774.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "236.0",
+                "CITY0": "Madrid",
+                "LATITUDE0": "40.4203",
+                "YEAR0": "2007.0",
+                "RANK0": "177.0",
+                "INVERSERA": "24.0",
+                "BUILDING0": "Torre Sacyr Vallehermoso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.265249,
+                    44.978625
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-93.265249",
+                "HEIGHTFEE": "774.0",
+                "FLOORS0": "57.0",
+                "HEIGHTMET": "236.0",
+                "CITY0": "Minneapolis",
+                "LATITUDE0": "44.978625",
+                "YEAR0": "1988.0",
+                "RANK0": "178.0",
+                "INVERSERA": "23.0",
+                "BUILDING0": "Wells Fargo Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "773.0",
+                "FLOORS0": "66.0",
+                "HEIGHTMET": "236.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "2003.0",
+                "RANK0": "179.0",
+                "INVERSERA": "22.0",
+                "BUILDING0": "Sorrento 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.329729,
+                    47.60347
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-122.329729",
+                "HEIGHTFEE": "772.0",
+                "FLOORS0": "55.0",
+                "HEIGHTMET": "235.0",
+                "CITY0": "Seattle",
+                "LATITUDE0": "47.60347",
+                "YEAR0": "1988.0",
+                "RANK0": "180.0",
+                "INVERSERA": "21.0",
+                "BUILDING0": "Washingtonutual Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127144,
+                    51.506325
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-0.127144",
+                "HEIGHTFEE": "771.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "235.0",
+                "CITY0": "London",
+                "LATITUDE0": "51.506325",
+                "YEAR0": "1991.0",
+                "RANK0": "181.0",
+                "INVERSERA": "20.0",
+                "BUILDING0": "One Canada Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.390849,
+                    33.74817
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-84.390849",
+                "HEIGHTFEE": "770.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "235.0",
+                "CITY0": "Atlanta",
+                "LATITUDE0": "33.74817",
+                "YEAR0": "1990.0",
+                "RANK0": "182.0",
+                "INVERSERA": "19.0",
+                "BUILDING0": "191 Peachtree Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.853256,
+                    1.29378
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "103.853256",
+                "HEIGHTFEE": "770.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "235.0",
+                "CITY0": "Singapore",
+                "LATITUDE0": "1.29378",
+                "YEAR0": "1986.0",
+                "RANK0": "183.0",
+                "INVERSERA": "18.0",
+                "BUILDING0": "Temasek Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.740921,
+                    35.670479
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "139.740921",
+                "HEIGHTFEE": "769.0",
+                "FLOORS0": "54.0",
+                "HEIGHTMET": "234.0",
+                "CITY0": "Tokyo",
+                "LATITUDE0": "35.670479",
+                "YEAR0": "1997.0",
+                "RANK0": "184.0",
+                "INVERSERA": "17.0",
+                "BUILDING0": "Tokyo Opera City Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.309212,
+                    25.27087
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "55.309212",
+                "HEIGHTFEE": "768.0",
+                "FLOORS0": "56.0",
+                "HEIGHTMET": "234.0",
+                "CITY0": "Dubai",
+                "LATITUDE0": "25.27087",
+                "YEAR0": "2007.0",
+                "RANK0": "185.0",
+                "INVERSERA": "16.0",
+                "BUILDING0": "Park Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.977379,
+                    37.557121
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "126.977379",
+                "HEIGHTFEE": "767.0",
+                "FLOORS0": "66.0",
+                "HEIGHTMET": "234.0",
+                "CITY0": "Seoul",
+                "LATITUDE0": "37.557121",
+                "YEAR0": "2002.0",
+                "RANK0": "186.0",
+                "INVERSERA": "15.0",
+                "BUILDING0": "Tower Palace One, Tower B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632409,
+                    41.88415
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-87.632409",
+                "HEIGHTFEE": "767.0",
+                "FLOORS0": "57.0",
+                "HEIGHTMET": "234.0",
+                "CITY0": "Chicago",
+                "LATITUDE0": "41.88415",
+                "YEAR0": "1981.0",
+                "RANK0": "187.0",
+                "INVERSERA": "14.0",
+                "BUILDING0": "Three First National Plaz.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.237419,
+                    25.728985
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-80.237419",
+                "HEIGHTFEE": "764.0",
+                "FLOORS0": "55.0",
+                "HEIGHTMET": "233.0",
+                "CITY0": "Miami",
+                "LATITUDE0": "25.728985",
+                "YEAR0": "1984.0",
+                "RANK0": "188.0",
+                "INVERSERA": "13.0",
+                "BUILDING0": "Wachovia Financial Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "763.0",
+                "FLOORS0": "70.0",
+                "HEIGHTMET": "233.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "2001.0",
+                "RANK0": "189.0",
+                "INVERSERA": "12.0",
+                "BUILDING0": "The Harbourfront Landmark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.740921,
+                    35.670479
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "139.740921",
+                "HEIGHTFEE": "763.0",
+                "FLOORS0": "52.0",
+                "HEIGHTMET": "233.0",
+                "CITY0": "Tokyo",
+                "LATITUDE0": "35.670479",
+                "YEAR0": "1994.0",
+                "RANK0": "190.0",
+                "INVERSERA": "11.0",
+                "BUILDING0": "Shinjuku Park Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472618,
+                    31.247709
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "121.472618",
+                "HEIGHTFEE": "762.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "232.0",
+                "CITY0": "Shanghai",
+                "LATITUDE0": "31.247709",
+                "YEAR0": "2000.0",
+                "RANK0": "191.0",
+                "INVERSERA": "10.0",
+                "BUILDING0": "International Ocean Shipp.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.369784,
+                    29.76045
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-95.369784",
+                "HEIGHTFEE": "762.0",
+                "FLOORS0": "53.0",
+                "HEIGHTMET": "232.0",
+                "CITY0": "Houston",
+                "LATITUDE0": "29.76045",
+                "YEAR0": "1987.0",
+                "RANK0": "192.0",
+                "INVERSERA": "9.0",
+                "BUILDING0": "Heritage Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.613121,
+                    31.3092
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "120.613121",
+                "HEIGHTFEE": "761.0",
+                "FLOORS0": "54.0",
+                "HEIGHTMET": "232.0",
+                "CITY0": "Suzhou",
+                "LATITUDE0": "31.3092",
+                "YEAR0": "2006.0",
+                "RANK0": "193.0",
+                "INVERSERA": "8.0",
+                "BUILDING0": "Suzhou Xindi Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.26416,
+                    5.3689
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "100.26416",
+                "HEIGHTFEE": "760.0",
+                "FLOORS0": "65.0",
+                "HEIGHTMET": "232.0",
+                "CITY0": "Penang Island",
+                "LATITUDE0": "5.3689",
+                "YEAR0": "1985.0",
+                "RANK0": "194.0",
+                "INVERSERA": "7.0",
+                "BUILDING0": "Menara KOMTAR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.164742,
+                    22.277679
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "114.164742",
+                "HEIGHTFEE": "758.0",
+                "FLOORS0": "65.0",
+                "HEIGHTMET": "231.0",
+                "CITY0": "Hong Kong",
+                "LATITUDE0": "22.277679",
+                "YEAR0": "2005.0",
+                "RANK0": "195.0",
+                "INVERSERA": "6.0",
+                "BUILDING0": "The Arch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "757.0",
+                "FLOORS0": "60.0",
+                "HEIGHTMET": "231.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "1991.0",
+                "RANK0": "196.0",
+                "INVERSERA": "5.0",
+                "BUILDING0": "Carnegie Hall Tower"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.00915,
+                    52.235315
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "21.00915",
+                "HEIGHTFEE": "757.0",
+                "FLOORS0": "43.0",
+                "HEIGHTMET": "231.0",
+                "CITY0": "Warsaw",
+                "LATITUDE0": "52.235315",
+                "YEAR0": "1955.0",
+                "RANK0": "197.0",
+                "INVERSERA": "4.0",
+                "BUILDING0": "Palace of Culture and Sci.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.632409,
+                    41.88415
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-87.632409",
+                "HEIGHTFEE": "756.0",
+                "FLOORS0": "50.0",
+                "HEIGHTMET": "230.0",
+                "CITY0": "Chicago",
+                "LATITUDE0": "41.88415",
+                "YEAR0": "1992.0",
+                "RANK0": "198.0",
+                "INVERSERA": "3.0",
+                "BUILDING0": "Chicago Title & Trust Bui.."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.369784,
+                    29.76045
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-95.369784",
+                "HEIGHTFEE": "756.0",
+                "FLOORS0": "55.0",
+                "HEIGHTMET": "230.0",
+                "CITY0": "Houston",
+                "LATITUDE0": "29.76045",
+                "YEAR0": "1980.0",
+                "RANK0": "199.0",
+                "INVERSERA": "2.0",
+                "BUILDING0": "Enterprise Plaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.007124,
+                    40.71455
+                ]
+            },
+            "properties": {
+                "name": "LONGITUDE0:",
+                "LONGITUDE0": "-74.007124",
+                "HEIGHTFEE": "755.0",
+                "FLOORS0": "47.0",
+                "HEIGHTMET": "230.0",
+                "CITY0": "New York City",
+                "LATITUDE0": "40.71455",
+                "YEAR0": "2001.0",
+                "RANK0": "200.0",
+                "INVERSERA": "1.0",
+                "BUILDING0": "Bear Stearns World Headqu.."
+            }
+        }
+    ]
+}

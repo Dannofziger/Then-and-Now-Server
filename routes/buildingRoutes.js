@@ -12,7 +12,7 @@ module.exports = function(app){
   // request to get all the buildings from the database
   app.get('/building', function(req, res) {
     console.log("in buildingRoutes.js  app.get()");
-    console.dir(req);
+    //console.dir(req);
 
     // get the values of the parameters from the Request url
     //localhost:3000/api/v1/building?gettype=invicinity&radius=.025&long=-122.348905&lat=47.6205535 get
@@ -39,11 +39,16 @@ module.exports = function(app){
       console.log("param reqLat = "  + reqLat);
 
       console.log("in buildingRoutes.js about to call Building.find()");
-      // .find() is mongoose static method on the "class" Building
-      // We haven't added  "user_id" field to  models/Building.js  yet
-      // Building.find({user_id: req.user._id}, function(err, data) {
-      Building.find({}, function(err, data) {
-        // fetch failed
+      // find all buildings within a certain radius in the database
+      // http://docs.mongodb.org/manual/reference/operator/query/centerSphere/
+      var radiusEarth = 3959;  // radius in miles
+
+      Building.find( { loc: {
+                       $geoWithin: {
+                         $centerSphere: [ [ parseFloat(reqLong), parseFloat(reqLat) ], vicinityRadius/radiusEarth ]
+                       }
+                     }}, function(err, data) {
+        // find failed
         if (err) {
           console.log("in buildingRoutes.js  app.get() Building.find err = " + err);
           return res.status(500).send({'msg': 'could not retrieve buildings'});
@@ -53,34 +58,7 @@ module.exports = function(app){
         //console.log(data);
         //console.dir(data);
 
-        var dist = 0;
-        var inVicinity = [];
-
-        // loop thru all the array of buildings and
-        // ... create another array of buildings
-        // ... within the rectangle around lat. and long.
-        // ... sent in the request
-        for (var i = 0; i < data.length; i++) {
-          console.log("data[i].longitude");
-          console.log(data[i].longitude);
-          console.log("data[i].latitude");
-          console.log(data[i].latitude);
-          console.log("param reqLong = " + reqLong);
-          console.log("param reqLat = "  + reqLat);
-          dist = distance(data[i].longitude, data[i].latitude,
-            reqLong,reqLat,'M');
-
-          // if building is "in the vicinity" of Lat and Long
-          // ... in request, then add to inVicinity array
-          if (dist && dist < vicinityRadius) {
-            inVicinity.push(data[i]);
-          }
-
-        }  //  for (var i = 0; i < data.length; i++) {
-
-        // success - return array of all the platypuses to the client
-        //res.json(data);
-        res.json(inVicinity);
+        res.json(data);
       });
 
     }
