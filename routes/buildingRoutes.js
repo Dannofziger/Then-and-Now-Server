@@ -7,14 +7,6 @@ var Building = require('../models/Building');
 module.exports = function(app){
   app.use(bodyparser.json());
 
-  app.get('', function(req, res){
-    model.find({}, function(err, data){
-      if(err) return res.status(500).send({msg: 'could not retrieve data'});
-
-      res.join(data);
-    });
-  });
-
   // request to get all the buildings from the database
   app.get('/building', function(req, res) {
     // .find() is mongoose static method on the "class" Building
@@ -63,9 +55,23 @@ module.exports = function(app){
     });
   });
 
-  // request to replace buiilding in the database
-  app.put('', function(req, res){
+  // request to replace a building in the database with another platypus
+  app.put('/building/:id', function(req, res) {
+    var updatedBuilding = req.body;
+    // this is same as setting updatedPlatypus._id = null
+    // ... forces update() to use the same _id when replacing the platypus
+    delete updatedBuilding._id;
+    Building.update({_id: req.params.id}, updatedBuilding, function(err) {
+      // update/replace failed
+      if (err) {
+        console.log("Building.update() failed. err = " + err);
+        return res.status(500).send({'msg': 'could not replace building'});
+      }
 
+      // success - return the body
+      console.log("successful Building.update()")
+      res.json(req.body);
+    });
   });
 
   app.patch('', function(req, res){
