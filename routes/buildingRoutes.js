@@ -15,6 +15,29 @@ module.exports = function(app){
     });
   });
 
+  // request to get all the buildings from the database
+  app.get('/building', function(req, res) {
+    // .find() is mongoose static method on the "class" Building
+
+    console.log("in buildingRoutes.js about to call Building.find()");
+    // We haven't added  "user_id" field to  models/Building.js  yet
+    // Building.find({user_id: req.user._id}, function(err, data) {
+    Building.find({}, function(err, data) {
+      // fetch failed
+      if (err) {
+        console.log("in buildingRoutes.js  app.get() Building.find err = " + err);
+        return res.status(500).send({'msg': 'could not retrieve buildings'});
+      }
+      console.log("success in Building.find()");
+      console.log("data");
+      console.log(data);
+      console.dir(data);
+
+      // success - return array of all the platypuses to the client
+      res.json(data);
+    });
+  });
+
   // request to insert new buiilding in the database
   app.post('/building', function(req, res) {
     console.log('in buildingRoutes.js  app.post()');
@@ -40,9 +63,11 @@ module.exports = function(app){
     });
   });
 
+  // request to replace buiilding in the database
   app.put('', function(req, res){
 
   });
+
   app.patch('', function(req, res){
 
   });
