@@ -43,3 +43,12 @@ superagent localhost:3000/api/v1/building/54ebdc781537d24821db4cab put '{
 
 //delete building
 superagent localhost:3000/api/v1/building/54ebdc781537d24821db4cab delete
+
+// get with params long and lat
+superagent localhost:3000/api/v1/building?long=-122.348905&lat=47.6205535 get  > output
+
+localhost:3000/api/v1/building?gettype=invicinity&radius=.025&long=-122.348905&lat=47.6205535 get
+
+
+
+

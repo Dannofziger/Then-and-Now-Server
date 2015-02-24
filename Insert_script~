@@ -257,12 +257,3 @@ db.buildings.insert({
   crtUser: 'Initial_Load',
   updtTimestamp: new Date(2015,1,23,16,00),
   updtUser: 'Initial_Load'});
-
-2001 W. Garfield Street
-
-Ordinance Number: 124135
-
-Effective Date: 14-Apr-13
-
-Other Documents: Designation Report
-
