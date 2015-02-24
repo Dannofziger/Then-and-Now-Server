@@ -232,7 +232,7 @@ db.buildings.insert({
   updtTimestamp: new Date(2015,1,23,16,00),
   updtUser: 'Initial_Load'});
 db.buildings.insert({
-  longitude: '-122.380272',
+  longic1	tude: '-122.380272',
   latitude: '47.628053',
   buildingName: 'Admirals House',
   buildingAddress: '2001 W. Garfield Street',
