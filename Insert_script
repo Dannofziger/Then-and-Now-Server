@@ -1,6 +1,8 @@
 db.buildings.insert({
   longitude: '-122.330547',
   latitude: '47.604886',
+  loc : { type: "Point", coordinates: [ -73.88, 40.78 ] },
+
   buildingName: 'Columbia Center',
   buildingAddress: '701 5th Ave',
   city: 'Seattle',
@@ -257,3 +259,18 @@ db.buildings.insert({
   crtUser: 'Initial_Load',
   updtTimestamp: new Date(2015,1,23,16,00),
   updtUser: 'Initial_Load'});
+//To create a 2dsphere index, use the db.collection.ensureIndex method.
+//To use db.collection.ensureIndex() method, specify the location field
+//... as the index key and
+//... specify the string literal "2dsphere" as the value:
+db.buildings.ensureIndex({ loc : "2dsphere" });
+
+
+db.places.insert(
+   {
+      loc : { type: "Point", coordinates: [ -73.88, 40.78 ] },
+      name: "La Guardia Airport",
+      category : "Airport"
+   }
+)
+
