@@ -135,6 +135,33 @@ module.exports = function(app){
 
       });
 
+    } else if (getType === 'searchtags') {
+
+      //localhost:3000/api/v1/building?gettype=searchtags&tag=Tower get
+      var tag = queryString.parse(params)["tag"];
+
+      console.log("request tag = " + tag);
+      console.log("search tags for buildings in the database");
+
+      Building.find( {tags: tag}, function(err, data) {
+        // find failed
+        if (err) {
+          console.log("in buildingRoutes.js  app.get() Building.find err = " + err);
+          return res.status(500).send({'msg': 'could not retrieve buildings'});
+        }
+        console.log("success in Building.find()");
+        console.log("data");
+        //console.log(data);
+        //console.dir(data);
+        console.log("count = " + data.length);
+
+        for (var i = 0; i < data.length ; i++) {
+          console.log("building number in search results = " + i);
+          console.log(data[i].tags);
+        }
+        res.json(data);
+      });
+
     } else {
       // return all buildings
       console.log("get all buildings in the database");
