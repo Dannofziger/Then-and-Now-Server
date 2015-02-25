@@ -11,7 +11,7 @@ var mongoose = require('mongoose');       // to read from, write to the database
 var buildingSchema = new mongoose.Schema({
   loc: {
     type: {type: String, default: 'Point'},
-    coordinates: {type: [Number], index: '2dsphere'}
+    coordinates: {type: [Number], index: {type: String, default: '2dsphere'}}
   },
   buildingName: String,
   buildingAddress: String,
@@ -31,6 +31,7 @@ var buildingSchema = new mongoose.Schema({
     url1900: String,
     url2010: String
   },
+  tags: {type: [String]},
   crtTimestamp: String,
   crtUser: String,
   updtTimestamp: String,
