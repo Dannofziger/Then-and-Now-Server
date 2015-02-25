@@ -7,7 +7,10 @@ var userRoutes = require('./routes/userRoutes');
 var buildingRoutes = require('./routes/buildingRoutes');
 var passport = require('passport');
 
-mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost/tan_development');
+console.log("process.env.MONGO_URI = " + process.env.MONGO_URI);
+console.log('mongodb://localhost/tan_development')
+var connectResult = mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost/tan_development');
+console.log('connectResult = ' + connectResult);
 
 var app = express();
 app.use(passport.initialize());

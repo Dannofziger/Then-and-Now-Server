@@ -198,14 +198,6 @@ db.buildings.insert({
   updtTimestamp: new Date(2015,1,23,16,00),
   updtUser: 'Initial_Load'});
 db.buildings.insert({
-  loc : { type: "Point", coordinates: [ -1db.places.insert(
-   {
-      loc : { type: "Point", coordinates: [ -73.88, 40.78 ] },
-      name: "La Guardia Airport",
-      category : "Airport"
-   }
-)
-db.buildings.insert({
   loc : { type: "Point", coordinates: [ -122.330547, 47.604886 ] },
   buildingName: 'Columbia Center',
   buildingAddress: '701 5th Ave',
