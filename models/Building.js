@@ -9,8 +9,10 @@ var mongoose = require('mongoose');       // to read from, write to the database
 
 
 var buildingSchema = new mongoose.Schema({
-  longitude: String,
-  latitude: String,
+  loc: {
+    type: {type: String, default: 'Point'},
+    coordinates: {type: [Number], index: '2dsphere'}
+  },
   buildingName: String,
   buildingAddress: String,
   city: String,

@@ -44,7 +44,7 @@ module.exports = function(app){
       // don't forget do create the index
       //     db.buildings.ensureIndex({ loc : "2dsphere" });
 
-      console.log("in buildingRoutes.js about to call Building.find()");
+      console.log("get all buildings in a circle");
       // find all buildings within a certain radius in the database
       // http://docs.mongodb.org/manual/reference/operator/query/centerSphere/
       var radiusEarth = 3959;  // radius in miles
@@ -69,7 +69,7 @@ module.exports = function(app){
         res.json(data);
       });
 
-    } else if (getType = "invicinityrectangle") {
+    } else if (getType === "invicinityrectangle") {
 
       //localhost:3000/api/v1/building?gettype=invicinityrectangle&radius=.025&long1=-122.348905&lat1=47.6205535&long2=-121.348905&lat2=46.6205535 get
       var long1 = queryString.parse(params)["long1"];
@@ -79,7 +79,7 @@ module.exports = function(app){
 
       // reqLat = 47.6205535 get      remove "get"
       var substrlat2 = lat2.substring(0, lat2.length - 4);
-      lat2 = substrlat2;
+      //lat2 = substrlat2;
 
       console.log("long1 = " + long1);
       console.log("lat1 = "  + lat1);
@@ -92,7 +92,7 @@ module.exports = function(app){
       var flLat2  = parseFloat(lat2);
 
 
-      console.log("in buildingRoutes.js about to call Building.find()");
+      console.log("get all buildings in a rectangle");
 
       // don't forget do create the index
       //     db.buildings.ensureIndex({ loc : "2dsphere" });
@@ -137,6 +137,22 @@ module.exports = function(app){
 
     } else {
       // return all buildings
+      console.log("get all buildings in the database");
+
+      Building.find( {}, function(err, data) {
+        // find failed
+        if (err) {
+          console.log("in buildingRoutes.js  app.get() Building.find err = " + err);
+          return res.status(500).send({'msg': 'could not retrieve buildings'});
+        }
+        console.log("success in Building.find()");
+        console.log("data");
+        //console.log(data);
+        //console.dir(data);
+        console.log("count = " + data.length);
+
+        res.json(data);
+      });
     }
 
   });

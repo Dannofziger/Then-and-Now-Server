@@ -18,6 +18,7 @@ superagent localhost:3000/api/v1/sign_in -u test1@example.com:test123
 
 //create building
 superagent localhost:3000/api/v1/building post '{
+
   "longitude": "-122.380272",  "latitude": "47.628053",  "buildingName": "Admirals House",  "buildingAddress": "2001 W. Garfield Street",  "city": "Seattle",  "state": "WA",  "zipcode": "98119-3115",  "buildDate": "1944",  "buildCompletion": "1944",  "crossStreetEastWest": "W. Garfield Street",  "crossStreetNorthSouth": "15th Ave W",  "infosites": {
     "wikipediaURL": "",    "yahooURL": "",    "googleURL": "http://www.seattle.gov/neighborhoods/preservation/documents/DesRptAdmiralsHouse.pdf"
   },  "images": {
@@ -55,3 +56,22 @@ localhost:3000/api/v1/building?gettype=invicinity&radius=1.0&long=-122.348905&la
 // this worked in Postman
 
 localhost:3000/api/v1/building?gettype=invicinityrectangle&radius=.025&long1=-123.0&lat1=48&long2=-122.0&lat2=47 get
+
+localhost:3000/api/v1/building?gettype=invicinityrectangle&radius=.025&long1=-123.0&lat1=48&long2=-122.0&lat2=47 get
+
+
+//create building
+superagent localhost:3000/api/v1/building post '{
+  "loc": {
+      "coordinates": ["-122.380272", "47.628053"]
+  },
+ "buildingName": "Admirals House",  "buildingAddress": "2001 W. Garfield Street",  "city": "Seattle",  "state": "WA",  "zipcode": "98119-3115",  "buildDate": "1944",  "buildCompletion": "1944",  "crossStreetEastWest": "W. Garfield Street",  "crossStreetNorthSouth": "15th Ave W",  "infosites": {
+    "wikipediaURL": "",    "yahooURL": "",    "googleURL": "http://www.seattle.gov/neighborhoods/preservation/documents/DesRptAdmiralsHouse.pdf"
+  },  "images": {
+    "url1900": "",    "url2010": "http://seamlessmoves.com/blog/wp-content/uploads/2012/12/Admirals-House.jpg"
+  },  "tags": ["Washington Mutual","Tower", "tall buildings"],  "crtTimestamp": "2-23-2015 16:00",  "crtUser": "Initial_Load",  "updtTimestamp": "2-23-2015 16:00",  "updtUser": "Initial_Load"}'
+
+  loc: {
+    type: {type: String, default: 'Point'},
+    coordinates: {type: [Number], index: '2dsphere'}
+  },
