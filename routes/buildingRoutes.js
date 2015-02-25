@@ -15,7 +15,7 @@ module.exports = function(app){
     //console.dir(req);
 
     // get the values of the parameters from the Request url
-    //localhost:3000/api/v1/building?gettype=invicinity&radius=.025&long=-122.348905&lat=47.6205535 get
+    //localhost:3000/api/v1/building?gettype=invicinitycircle&radius=.025&long=-122.348905&lat=47.6205535 get
 
     console.log("req.url");
     console.log(req.url);
@@ -26,7 +26,10 @@ module.exports = function(app){
     var getType = queryString.parse(params)["gettype"];
     console.log("getType = " + getType);
 
-    if (getType === "invicinity") {
+    if (getType === "invicinitycircle") {
+
+     //localhost:3000/api/v1/building?gettype=invicinitycircle&radius=.025&long=-122.348905&lat=47.6205535 get
+
       var vicinityRadius = queryString.parse(params)["radius"]; // in miles
       console.log("vicinityRadius = " + vicinityRadius);
       var reqLong = queryString.parse(params)["long"];
@@ -38,6 +41,9 @@ module.exports = function(app){
       console.log("param reqLong = " + reqLong);
       console.log("param reqLat = "  + reqLat);
 
+      // don't forget do create the index
+      //     db.buildings.ensureIndex({ loc : "2dsphere" });
+
       console.log("in buildingRoutes.js about to call Building.find()");
       // find all buildings within a certain radius in the database
       // http://docs.mongodb.org/manual/reference/operator/query/centerSphere/
@@ -45,7 +51,9 @@ module.exports = function(app){
 
       Building.find( { loc: {
                        $geoWithin: {
-                         $centerSphere: [ [ parseFloat(reqLong), parseFloat(reqLat) ], vicinityRadius/radiusEarth ]
+                         $centerSphere: [ [ parseFloat(reqLong),
+                                            parseFloat(reqLat) ],
+                                          vicinityRadius/radiusEarth ]
                        }
                      }}, function(err, data) {
         // find failed
@@ -61,7 +69,76 @@ module.exports = function(app){
         res.json(data);
       });
 
+    } else if (getType = "invicinityrectangle") {
+
+      //localhost:3000/api/v1/building?gettype=invicinityrectangle&radius=.025&long1=-122.348905&lat1=47.6205535&long2=-121.348905&lat2=46.6205535 get
+      var long1 = queryString.parse(params)["long1"];
+      var lat1  = queryString.parse(params)["lat1"];
+      var long2 = queryString.parse(params)["long2"];
+      var lat2  = queryString.parse(params)["lat2"];
+
+      // reqLat = 47.6205535 get      remove "get"
+      var substrlat2 = lat2.substring(0, lat2.length - 4);
+      lat2 = substrlat2;
+
+      console.log("long1 = " + long1);
+      console.log("lat1 = "  + lat1);
+      console.log("long2 = " + long2);
+      console.log("lat2 = "  + lat2);
+
+      var flLong1 = parseFloat(long1);
+      var flLat1  = parseFloat(lat1);
+      var flLong2 = parseFloat(long2);
+      var flLat2  = parseFloat(lat2);
+
+
+      console.log("in buildingRoutes.js about to call Building.find()");
+
+      // don't forget do create the index
+      //     db.buildings.ensureIndex({ loc : "2dsphere" });
+
+// db.places.find( { loc :
+//                   { $geoWithin :
+//                     { $geometry :
+//                       { type : "Polygon",
+//                         coordinates : [ [ [ 0 , 0 ] , [ 0 , 1 ] , [ 1 , 1 ] , [ 1 , 0 ] , [ 0 , 0 ] ] ]
+//                 } } } } )
+
+      // returns points only (not the rest of the data ??)
+      Building.find( { loc:
+                       { $geoWithin :
+                         { $geometry:
+                           { type : "Polygon",
+                             coordinates : [ [ [flLong1, flLat1],
+                                   [flLong1, flLat2],
+                                   [flLong2, flLat2],
+                                   [flLong2, flLat1],
+                                   [flLong1, flLat1]  ] ]
+                           }
+                          }
+                        }
+                     }, function(err, data) {
+
+        // find failed
+        if (err) {
+          console.log("in buildingRoutes.js  app.get() Building.find err = " + err);
+          return res.status(500).send({'msg': 'could not retrieve buildings'});
+        }
+        console.log("success in Building.find()");
+        console.log("data");
+        //console.log(data);
+        //console.dir(data);
+
+        console.log("returned count = " + data.length);
+
+        res.json(data);
+
+      });
+
+    } else {
+      // return all buildings
     }
+
   });
 
   // request to insert new buiilding in the database
