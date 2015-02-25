@@ -52,5 +52,6 @@ localhost:3000/api/v1/building?gettype=invicinity&radius=.025&long=-122.348905&l
 localhost:3000/api/v1/building?gettype=invicinity&radius=1.0&long=-122.348905&lat=47.6205535 get
 
 
+// this worked in Postman
 
-
+localhost:3000/api/v1/building?gettype=invicinityrectangle&radius=.025&long1=-123.0&lat1=48&long2=-122.0&lat2=47 get
