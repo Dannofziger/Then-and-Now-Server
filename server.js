@@ -9,7 +9,7 @@ var passport = require('passport');
 
 console.log("process.env.MONGOLAB_URI = " + process.env.MONGO_URI);
 console.log('mongodb://localhost/tan_development')
-var connectResult = mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost/tan_development');
+var connectResult = mongoose.connect(process.env.MONGOLAB_URI || 'mongodb://localhost/tan_development');
 console.log('connectResult = ' + connectResult);
 
 var app = express();
