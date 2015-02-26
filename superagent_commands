@@ -86,3 +86,19 @@ superagent https://git.heroku.com/then-and-now.git/api/v1/building post '{
   },  "images": {
     "url1900": "",    "url2010": "http://seamlessmoves.com/blog/wp-content/uploads/2012/12/Admirals-House.jpg"
   },  "tags": ["Washington Mutual","Tower", "tall buildings"],  "crtTimestamp": "2-23-2015 16:00",  "crtUser": "Initial_Load",  "updtTimestamp": "2-23-2015 16:00",  "updtUser": "Initial_Load"}'
+
+
+superagent then-and-now.herokuapp.com/api/v1/building post '{
+  "loc": {
+      "coordinates": ["-122.380272", "47.628053"]
+  },
+ "buildingName": "Admirals House",  "buildingAddress": "2001 W. Garfield Street",  "city": "Seattle",  "state": "WA",  "zipcode": "98119-3115",  "buildDate": "1944",  "buildCompletion": "1944",  "crossStreetEastWest": "W. Garfield Street",  "crossStreetNorthSouth": "15th Ave W",  "infosites": {
+    "wikipediaURL": "",    "yahooURL": "",    "googleURL": "http://www.seattle.gov/neighborhoods/preservation/documents/DesRptAdmiralsHouse.pdf"
+  },  "images": {
+    "url1900": "",    "url2010": "http://seamlessmoves.com/blog/wp-content/uploads/2012/12/Admirals-House.jpg"
+  },  "tags": ["Washington Mutual","Tower", "tall buildings"],  "crtTimestamp": "2-23-2015 16:00",  "crtUser": "Initial_Load",  "updtTimestamp": "2-23-2015 16:00",  "updtUser": "Initial_Load"}'
+
+
+  mongodb://heroku_app34345839:akrr833rq2iok183vatseiir56@ds047911.mongolab.com:47911/heroku_app34345839
+
+mongo ds047911.mongolab.com:47911/heroku_app34345839 -u heroku_app34345839 -p akrr833rq2iok183vatseiir56
